@@ -1,3 +1,4 @@
+--thumbs_up is a column name, those queires are iterated over all columns
 --Q1. Table structure, data types, nullability
 EXEC sp_help 'thread_app';
 
@@ -35,4 +36,4 @@ FROM thread_app
 WHERE thumbs_up IS NOT NULL;
 
 --Q6. Explicit constraints
---EXEC sp_helpconstraint 'thread_app';
+EXEC sp_helpconstraint 'thread_app';
