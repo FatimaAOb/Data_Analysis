@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.5.0/schema.json",
+  "name": "284c77a48d8da03ca8f0",
+  "position": {
+    "x": 407.49442806815733,
+    "y": 570,
+    "z": 4001,
+    "height": 150,
+    "width": 872.50557193184272
+  },
+  "visual": {
+    "visualType": "card",
+    "autoSelectVisualType": true,
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "onlineRetailData"
+                    }
+                  },
+                  "Property": "Q4GROWTH%"
+                }
+              },
+              "queryRef": "onlineRetailData.Q4GROWTH%",
+              "nativeQueryRef": "Q4GROWTH%"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

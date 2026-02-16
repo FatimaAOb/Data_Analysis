@@ -1,0 +1,39 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.5.0/schema.json",
+  "name": "f2b8a30bd1f9ce6fbedf",
+  "position": {
+    "x": 793.45459774246888,
+    "y": 241.84628657703644,
+    "z": 3000,
+    "height": 150.73980875691998,
+    "width": 487.0055359838953,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "card",
+    "autoSelectVisualType": true,
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "onlineRetailData"
+                    }
+                  },
+                  "Property": "Top10CustomerRevenue%"
+                }
+              },
+              "queryRef": "onlineRetailData.Top10CustomerRevenue%",
+              "nativeQueryRef": "Top10CustomerRevenue%"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

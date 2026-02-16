@@ -5,8 +5,8 @@
     "x": 468.784240419872,
     "y": 0,
     "z": 1000,
-    "height": 513.50923862247464,
-    "width": 765.29441368897835,
+    "height": 405.83794665324609,
+    "width": 785.17219066791279,
     "tabOrder": 1000
   },
   "visual": {
@@ -28,6 +28,24 @@
               },
               "queryRef": "onlineRetailData.Description",
               "nativeQueryRef": "Description"
+            }
+          ]
+        },
+        "Size": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "onlineRetailData"
+                    }
+                  },
+                  "Property": "Top20ProductRevenue%"
+                }
+              },
+              "queryRef": "onlineRetailData.Top20ProductRevenue%",
+              "nativeQueryRef": "Top20ProductRevenue%"
             }
           ]
         },
