@@ -30,11 +30,9 @@ Analysis of online retail transactions to identify customer segments, product pe
 **Rationale:** CustomerID is essential for customer behavior analysis. Returns require separate analysis.
 
 ## Key Findings
-1. **Revenue Growth:** 
+1. **Revenue Growth in Q4:** 49.49%
 2. **Customer Segmentation:** 
-
-3. **Top Products:** "Regency Cakestand 3 tier" generated £ (3.5% of total revenue)
-4. **Geographic Insights:** 
+3. **Top Products:** "Regency Cakestand 3 tier" generated £101,101.90
 
 ## Recommendations
 1. Implement win-back campaign for churned customers
