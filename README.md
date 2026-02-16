@@ -10,7 +10,7 @@ Junior Data Analyst specializing in SQL, Python, and Power BI. Passionate about 
 
 ## Projects
 
-### 1. E-commerce Customer Behavior Analysis
+### 1. [E-commerce Customer Behavior Analysis](https://github.com/FatimaAOb/Data_Analysis/tree/main/E-commerce%20Customer%20Behavior%20Analysis)
 Analyzed 540K+ transactions to identify customer segments and revenue opportunities.
 - **Tools:** SQL Server, Python, Power BI
 - **Key Result:**<br>
@@ -19,8 +19,6 @@ Analyzed 540K+ transactions to identify customer segments and revenue opportunit
     Top 20 products account for 15% of sales, with REGENCY CAKESTAND 3 TIER leading at $101,101.90 <br>
   
 
-
-- [View Project:] [E-commerce Customer Behavior Analysis]((https://github.com/FatimaAOb/Data_Analysis/tree/169dbbfa5b8a11d8ea00b76b9ddfdd8a705cc94d/E-commerce%20Customer%20Behavior%20Analysis))
 
 ### 2. School Information System - Student Performance Analysis
 Analyzed student attendance and academic performance to identify at-risk students.
