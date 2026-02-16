@@ -14,13 +14,13 @@ Junior Data Analyst specializing in SQL, Python, and Power BI. Passionate about 
 Analyzed 540K+ transactions to identify customer segments and revenue opportunities.
 - **Tools:** SQL Server, Python, Power BI
 - **Key Result:** Identified $480K revenue opportunities through customer segmentation
-- [View Project →]([E-commerce Customer Behavior Analysis](E-commerce Customer Behavior Analysis))
+- [View Project:][E-commerce Customer Behavior Analysis]((https://github.com/FatimaAOb/Data_Analysis/tree/169dbbfa5b8a11d8ea00b76b9ddfdd8a705cc94d/E-commerce%20Customer%20Behavior%20Analysis))
 
 ### 2. 🎓 School Information System - Student Performance Analysis
 Analyzed student attendance and academic performance to identify at-risk students.
 - **Tools:** SQL Server, Python, Power BI
 - **Key Result:** 
-- [View Project →]
+- [View Project: ]
 
 
 
