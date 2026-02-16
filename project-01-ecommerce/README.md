@@ -42,25 +42,6 @@ Analysis of online retail transactions to identify customer segments, product pe
 3. Investigate low retention rates (% churn)
 4. Expand marketing in high-performing countries
 
-## Project Structure
-```
-├── data/
-│   ├── Online Retail.xlsx (raw)
-│   └── online_retail_cleaned.csv
-├── sql/
-│   ├── 01_data_profiling.sql
-│   └── 02_analysis_queries.sql
-├── python/
-│   ├── 01_data_cleaning.py
-│   └── 02_analysis_visualization.py
-├── visualizations/
-│   ├── monthly_revenue_trend.png
-│   └── customer_spend_distribution.png
-├── powerbi/
-│   └── ecommerce_dashboard.pbix
-└── README.md
-```
-
 ## How to Reproduce
 1. Download dataset, availabe in folder.
 2. Import to SQL Server using provided scripts
