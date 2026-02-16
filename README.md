@@ -13,7 +13,7 @@ Junior Data Analyst specializing in SQL, Python, and Power BI. Passionate about 
 ### 1. E-commerce Customer Behavior Analysis
 Analyzed 540K+ transactions to identify customer segments and revenue opportunities.
 - **Tools:** SQL Server, Python, Power BI
-- **Key Result:**
+- **Key Result:**<br>
     Revenue shows strong seasonality with Q4 peak representing 49.49% growth <br>
     Top 10% of customers generate 61.45% of total revenue <br>
     Top 20 products account for 15% of sales, with REGENCY CAKESTAND 3 TIER leading at $101,101.90 <br>
