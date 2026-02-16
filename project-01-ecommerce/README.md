@@ -43,7 +43,7 @@ Analysis of online retail transactions to identify customer segments, product pe
 4. Expand marketing in high-performing countries
 
 ## How to Reproduce
-1. Download dataset, availabe in folder.
+1. Download dataset, availabe in folder
 2. Import to SQL Server using provided scripts
 3. Run Python cleaning script
 4. Execute SQL analysis queries
