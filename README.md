@@ -10,7 +10,7 @@ Junior Data Analyst specializing in SQL, Python, and Power BI. Passionate about 
 
 ## Projects
 
-### 1. [E-commerce Customer Behavior Analysis](https://github.com/FatimaAOb/Data_Analysis/tree/main/E-commerce%20Customer%20Behavior%20Analysis)
+### 1. [E-commerce Customer Behavior Analysis](https://github.com/FatimaAOb/Data_Analysis/tree/main/project-01-ecommerce)
 Analyzed 540K+ transactions to identify customer segments and revenue opportunities.
 - **Tools:** SQL Server, Python, Power BI
 - **Key Result:**<br>
