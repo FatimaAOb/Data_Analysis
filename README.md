@@ -1,8 +1,7 @@
 # Data_Analysis
 
 
-## About Me
-Junior Data Analyst specializing in SQL, Python, and Power BI. Passionate about transforming messy data into actionable business insights.
+Data Analysis with SQL, Python, and Power BI.
 
 ## Technical Skills
 **Tools:** SQL Server | Python (pandas, scipy, matplotlib) | Power BI | Git  
@@ -20,7 +19,7 @@ Analyzed 540K+ transactions to identify customer segments and revenue opportunit
   
 
 
-### 2. School Information System - Student Performance Analysis
+### 2. [School Information System - Student Performance Analysis](https://github.com/FatimaAOb/Data_Analysis/tree/main/project-02-SIS)
 Analyzed student attendance and academic performance to identify at-risk students.
 - **Tools:** SQL Server, Python, Power BI
 - **Key Result:** 
