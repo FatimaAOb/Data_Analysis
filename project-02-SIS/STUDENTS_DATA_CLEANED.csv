@@ -1,0 +1,1001 @@
+id,first_name,last_name,gender,Grade,absence_days,tardy_days,math_grade,science_grade,english_grade,it_grade,math_pass,science_pass,english_pass,it_pass,avg_grade,attendance_rate,tardy_rate,total_attendance_issues,attendance_situation,pass_status,attendance_category,grade_level_group,at_risk,needs_intervention,failed_subjects,best_subject,worst_subject,grade_variance,performance_tier,honor_roll
+1,Marsh,Hullot,Male,1,5,36,52,50,95,87,1,1,1,1,71.0,97.22,20.0,41,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,23.34,Satisfactory,0
+2,Boniface,Vany,Male,2,0,11,75,83,68,62,1,1,1,1,72.0,100.0,6.11,11,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Science,It,9.06,Satisfactory,0
+3,Harwilll,List,Male,3,20,48,50,50,50,63,1,1,1,1,53.25,88.89,26.67,68,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,6.5,Passing,0
+4,Carlie,Niche,Male,1,3,24,99,50,61,50,1,1,1,1,65.0,98.33,13.33,27,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Math,Science,23.25,Needs Improvement,0
+5,Wilow,Regnard,Female,5,11,23,55,50,50,50,1,1,1,1,51.25,93.89,12.78,34,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,2.5,Passing,0
+6,Sapphire,Lunt,Female,5,19,47,97,50,50,50,1,1,1,1,61.75,89.44,26.11,66,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,23.5,Needs Improvement,0
+7,Walden,Lerohan,Male,5,6,10,80,55,71,50,1,1,1,1,64.0,96.67,5.56,16,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Math,It,13.93,Needs Improvement,0
+8,Davita,Blasl,Female,12,13,1,79,19,68,27,1,0,1,0,48.25,92.78,0.56,14,Excessive Absence,Fail,Moderate,High (9-12),0,1,2,Math,Science,29.68,Failing,0
+9,Elinor,Crumbleholme,Female,7,12,43,7,57,52,99,0,1,1,1,53.75,93.33,23.89,55,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,It,Math,37.62,Passing,0
+10,Merrel,Lownsbrough,Male,10,21,9,26,92,40,50,0,1,0,1,52.0,88.33,5.0,30,Excessive Absence,Pass,Concerning,High (9-12),0,1,2,Science,Math,28.43,Passing,0
+11,Gale,Horburgh,Female,2,15,13,75,71,52,83,1,1,1,1,70.25,91.67,7.22,28,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,It,English,13.15,Satisfactory,0
+12,Mikel,Dicty,Male,3,24,42,50,50,50,92,1,1,1,1,60.5,86.67,23.33,66,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,21.0,Needs Improvement,0
+13,Carma,Andriesse,Female,4,12,30,50,90,90,92,1,1,1,1,80.5,93.33,16.67,42,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,20.36,Good,0
+14,Ilene,Dallaghan,Female,1,27,15,71,50,50,50,1,1,1,1,55.25,85.0,8.33,42,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,10.5,Passing,0
+15,Luther,Jennrich,Male,7,8,50,61,46,64,27,1,0,1,0,49.5,95.56,27.78,58,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,English,It,16.94,Failing,0
+16,Barron,Sparsholt,Male,6,16,21,50,50,52,72,1,1,1,1,56.0,91.11,11.67,37,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,Math,10.71,Passing,0
+17,Lilly,Cadge,Female,6,9,27,58,55,50,50,1,1,1,1,53.25,95.0,15.0,36,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,Math,English,3.95,Passing,0
+18,Suzy,Isham,Female,1,29,36,73,79,71,67,1,1,1,1,72.5,83.89,20.0,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,5.0,Satisfactory,0
+19,Antoni,Josefsson,Male,8,7,36,45,55,1,61,0,1,0,1,40.5,96.11,20.0,43,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,It,English,27.15,Failing,0
+20,Tammi,Foister,Female,7,8,28,87,38,34,86,1,0,0,1,61.25,95.56,15.56,36,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,2,Math,English,29.2,Needs Improvement,0
+21,Renae,Heibel,Female,3,23,18,50,50,50,66,1,1,1,1,54.0,87.22,10.0,41,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,8.0,Passing,0
+22,Cherice,Annable,Female,9,5,0,59,96,2,53,1,1,0,1,52.5,97.22,0.0,5,Acceptable,Pass,Good,High (9-12),0,0,1,Science,English,38.67,Passing,0
+23,Carroll,Bakster,Male,11,21,42,85,70,54,60,1,1,1,1,67.25,88.33,23.33,63,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,Math,English,13.55,Needs Improvement,0
+24,Bernardine,Pryor,Female,2,23,9,69,50,50,61,1,1,1,1,57.5,87.22,5.0,32,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,9.26,Passing,0
+25,Sebastien,Ponten,Male,10,21,4,77,43,54,35,1,0,1,0,52.25,88.33,2.22,25,Excessive Absence,Pass,Concerning,High (9-12),0,1,2,Math,It,18.25,Passing,0
+26,Jerrold,Harford,Male,8,18,9,65,82,10,67,1,1,0,1,56.0,90.0,5.0,27,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,1,Science,English,31.59,Passing,0
+27,Demetris,Sapsed,Female,6,28,12,51,50,54,50,1,1,1,1,51.25,84.44,6.67,40,Excessive Absence,Pass,Exessive,Middle (6-8),1,1,0,English,Science,1.89,Passing,0
+28,Dre,Kelland,Female,9,1,14,72,7,3,96,1,0,0,1,44.5,99.44,7.78,15,Acceptable,Fail,Moderate,High (9-12),0,0,2,It,English,46.68,Failing,0
+29,Giorgia,Goskar,Female,8,22,40,69,20,12,89,1,0,0,1,47.5,87.78,22.22,62,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,It,English,37.42,Failing,0
+30,Virgilio,Wardel,Male,5,29,10,50,50,62,50,1,1,1,1,53.0,83.89,5.56,39,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,English,Math,6.0,Passing,0
+31,Valentia,Adamski,Female,4,20,50,50,50,50,50,1,1,1,1,50.0,88.89,27.78,70,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+32,Alex,Herreran,Male,1,17,43,50,64,50,94,1,1,1,1,64.5,90.56,23.89,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,20.74,Needs Improvement,0
+33,Jobyna,Coen,Female,9,18,39,4,30,71,52,0,0,1,1,39.25,90.0,21.67,57,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,English,Math,28.86,Failing,0
+34,Kennie,Egalton,Male,2,6,32,78,87,67,60,1,1,1,1,73.0,96.67,17.78,38,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,11.92,Satisfactory,0
+35,Fritz,Marcussen,Male,11,8,47,75,75,91,92,1,1,1,1,83.25,95.56,26.11,55,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,0,It,Math,9.54,Good,0
+36,Dani,Andell,Female,3,19,42,90,50,90,50,1,1,1,1,70.0,89.44,23.33,61,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,23.09,Satisfactory,0
+37,Carroll,Alti,Female,7,25,0,100,96,68,63,1,1,1,1,81.75,86.11,0.0,25,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Math,It,18.95,Good,0
+38,Randi,Vears,Female,4,15,2,95,87,50,50,1,1,1,1,70.5,91.67,1.11,17,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,Math,English,23.9,Satisfactory,0
+39,Abey,Norcutt,Male,7,18,23,11,98,18,70,0,1,0,1,49.25,90.0,12.78,41,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,Science,Math,41.82,Failing,0
+40,Florri,Seyffert,Female,8,29,7,6,56,82,94,0,1,1,1,59.5,83.89,3.89,36,Excessive Absence,Pass,Exessive,Middle (6-8),1,1,1,It,Math,39.03,Passing,0
+41,Laetitia,Camillo,Female,7,3,0,34,61,83,10,0,1,1,0,47.0,98.33,0.0,3,Acceptable,Fail,Good,Middle (6-8),0,0,2,English,It,31.78,Failing,0
+42,Betti,Treven,Female,11,22,24,85,48,40,85,1,0,0,1,64.5,87.78,13.33,46,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,Math,English,23.9,Needs Improvement,0
+43,Joanne,Paszak,Female,2,6,9,56,81,50,70,1,1,1,1,64.25,96.67,5.0,15,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Science,English,13.96,Needs Improvement,0
+44,Rosabelle,Threlkeld,Female,11,6,26,4,61,72,84,0,1,1,1,55.25,96.67,14.44,32,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,It,Math,35.43,Passing,0
+45,Inglebert,MacClancey,Male,10,1,41,10,23,23,60,0,0,0,1,29.0,99.44,22.78,42,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Math,21.56,Failing,0
+46,Stanislaus,Ingraham,Male,9,17,6,87,76,38,15,1,1,0,0,54.0,90.56,3.33,23,Excessive Absence,Pass,Concerning,High (9-12),0,1,2,Math,It,33.42,Passing,0
+47,Lurleen,Bettenson,Female,6,27,39,95,94,51,81,1,1,1,1,80.25,85.0,21.67,66,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,English,20.52,Good,0
+48,Luisa,Hanney,Female,12,18,32,44,75,65,45,0,1,1,0,57.25,90.0,17.78,50,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,Science,Math,15.28,Passing,0
+49,Falkner,Darbey,Male,2,26,34,84,76,92,50,1,1,1,1,75.5,85.56,18.89,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,It,18.21,Satisfactory,0
+50,Antonella,Greenset,Female,4,3,48,50,75,64,52,1,1,1,1,60.25,98.33,26.67,51,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,11.62,Needs Improvement,0
+51,Philbert,Arnaldi,Male,11,0,28,32,33,74,35,0,0,1,0,43.5,100.0,15.56,28,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,3,English,Math,20.37,Failing,0
+52,Frankie,Schenkel,Male,8,0,15,33,23,52,89,0,0,1,1,49.25,100.0,8.33,15,Acceptable,Fail,Moderate,Middle (6-8),0,0,2,It,Science,29.1,Failing,0
+53,Edmund,Dumbrall,Male,5,4,29,50,85,100,93,1,1,1,1,82.0,97.78,16.11,33,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,22.2,Good,0
+54,Shanna,Pinckstone,Female,9,11,23,73,10,65,100,1,0,1,1,62.0,93.89,12.78,34,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Science,37.76,Needs Improvement,0
+55,Louie,Neat,Male,3,30,35,94,50,50,64,1,1,1,1,64.5,83.33,19.44,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,20.74,Needs Improvement,0
+56,Emera,Tomalin,Female,2,0,34,66,81,97,50,1,1,1,1,73.5,100.0,18.89,34,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,It,20.14,Satisfactory,0
+57,Rora,Cowup,Female,11,14,50,0,37,59,25,0,0,1,0,30.25,92.22,27.78,64,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,English,Math,24.6,Failing,0
+58,Bellina,Sandom,Female,10,11,7,58,78,22,78,1,1,0,1,59.0,93.89,3.89,18,Excessive Absence,Pass,Moderate,High (9-12),0,1,1,Science,English,26.41,Passing,0
+59,Jessie,Elsmore,Male,1,21,24,88,59,51,50,1,1,1,1,62.0,88.33,13.33,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,It,17.8,Needs Improvement,0
+60,Alexio,Caughey,Male,3,22,4,66,94,65,88,1,1,1,1,78.25,87.78,2.22,26,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,English,14.93,Satisfactory,0
+61,Jard,Thursfield,Male,5,1,18,50,50,50,50,1,1,1,1,50.0,99.44,10.0,19,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Math,Math,0.0,Passing,0
+62,Gracie,Cholwell,Female,5,5,26,90,50,68,63,1,1,1,1,67.75,97.22,14.44,31,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,16.66,Needs Improvement,0
+63,Gauthier,Lomax,Male,8,3,18,48,7,83,95,0,0,1,1,58.25,98.33,10.0,21,Acceptable,Pass,Concerning,Middle (6-8),0,0,2,It,Science,39.56,Passing,0
+64,Christin,Sang,Female,4,11,11,50,54,66,50,1,1,1,1,55.0,93.89,6.11,22,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,7.57,Passing,0
+65,Bernita,Borrel,Female,6,13,12,98,50,79,50,1,1,1,1,69.25,92.78,6.67,25,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Math,Science,23.54,Needs Improvement,0
+66,Dianne,Ivanuschka,Female,11,16,6,81,84,69,55,1,1,1,1,72.25,91.11,3.33,22,Excessive Absence,Pass,Concerning,High (9-12),0,1,0,Science,It,13.2,Satisfactory,0
+67,Gamaliel,Adamides,Male,1,13,15,83,60,50,82,1,1,1,1,68.75,92.78,8.33,28,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,English,16.4,Needs Improvement,0
+68,Arney,Tilson,Male,7,18,49,71,27,77,81,1,0,1,1,64.0,90.0,27.22,67,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,It,Science,25.01,Needs Improvement,0
+69,Jasmine,Barkhouse,Female,10,4,14,8,92,29,75,0,1,0,1,51.0,97.78,7.78,18,Acceptable,Pass,Moderate,High (9-12),0,0,2,Science,Math,39.12,Passing,0
+70,Rosy,Kupper,Female,5,23,4,100,50,92,77,1,1,1,1,79.75,87.22,2.22,27,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,Science,22.01,Satisfactory,0
+71,Bernard,Adne,Male,8,3,42,94,81,50,31,1,1,1,0,64.0,98.33,23.33,45,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,1,Math,It,28.72,Needs Improvement,0
+72,Garey,Abbis,Male,2,10,50,50,50,50,50,1,1,1,1,50.0,94.44,27.78,60,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+73,Roselle,Gallie,Female,3,22,49,50,50,81,87,1,1,1,1,67.0,87.78,27.22,71,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,19.78,Needs Improvement,0
+74,Alica,Jeanet,Female,11,27,35,2,25,27,11,0,0,0,0,16.25,85.0,19.44,62,Excessive Absence,Fail,Exessive,High (9-12),0,1,4,English,Math,11.87,Failing,0
+75,Angela,Egar,Female,8,29,20,69,65,52,52,1,1,1,1,59.5,83.89,11.11,49,Excessive Absence,Pass,Exessive,Middle (6-8),1,1,0,Math,English,8.81,Passing,0
+76,Dani,Alfonso,Female,9,14,1,49,29,51,43,0,0,1,0,43.0,92.22,0.56,15,Excessive Absence,Fail,Moderate,High (9-12),0,1,3,English,Science,9.93,Failing,0
+77,Sibby,Klimuk,Female,2,19,38,68,50,50,67,1,1,1,1,58.75,89.44,21.11,57,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,10.11,Passing,0
+78,Jeralee,Bowbrick,Female,2,27,25,56,50,81,50,1,1,1,1,59.25,85.0,13.89,52,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,14.77,Passing,0
+79,Kylie,Boerderman,Female,9,26,43,40,22,32,39,0,0,0,0,33.25,85.56,23.89,69,Excessive Absence,Fail,Exessive,High (9-12),0,1,4,Math,Science,8.3,Failing,0
+80,Elliott,De Souza,Male,6,5,18,81,81,77,61,1,1,1,1,75.0,97.22,10.0,23,Acceptable,Pass,Concerning,Middle (6-8),0,0,0,Math,It,9.52,Satisfactory,0
+81,Otis,Baldoni,Male,9,21,2,60,13,18,63,1,0,0,1,38.5,88.33,1.11,23,Excessive Absence,Fail,Concerning,High (9-12),0,1,2,It,Science,26.66,Failing,0
+82,Carl,Mechic,Male,3,30,48,50,95,79,50,1,1,1,1,68.5,83.33,26.67,78,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,22.34,Needs Improvement,0
+83,Clayborn,Dunthorn,Male,8,24,38,51,72,77,63,1,1,1,1,65.75,86.67,21.11,62,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,Math,11.41,Needs Improvement,0
+84,Marquita,Mingey,Female,12,13,33,26,63,8,99,0,1,0,1,49.0,92.78,18.33,46,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,It,English,40.44,Failing,0
+85,Vivia,Suddards,Female,12,15,0,50,32,53,58,1,0,1,1,48.25,91.67,0.0,15,Excessive Absence,Fail,Moderate,High (9-12),0,1,1,It,Science,11.32,Failing,0
+86,Babbie,Webling,Female,2,26,50,50,50,96,63,1,1,1,1,64.75,85.56,27.78,76,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,21.72,Needs Improvement,0
+87,Conan,Duff,Male,7,19,20,50,17,87,84,1,0,1,1,59.5,89.44,11.11,39,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,English,Science,32.93,Passing,0
+88,Cindie,Kilcoyne,Female,2,1,16,50,70,82,64,1,1,1,1,66.5,99.44,8.89,17,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,English,Math,13.3,Needs Improvement,0
+89,Adorne,Yurlov,Female,10,13,2,89,53,27,52,1,1,0,1,55.25,92.78,1.11,15,Excessive Absence,Pass,Moderate,High (9-12),0,1,1,Math,English,25.51,Passing,0
+90,Godfry,Maharey,Male,12,5,28,49,49,57,86,0,0,1,1,60.25,97.22,15.56,33,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,2,It,Math,17.58,Needs Improvement,0
+91,Clyde,Farryan,Male,1,1,19,50,97,50,98,1,1,1,1,73.75,99.44,10.56,20,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,27.43,Satisfactory,0
+92,Tanhya,Cribbott,Female,4,1,7,50,94,73,51,1,1,1,1,67.0,99.44,3.89,8,Acceptable,Pass,Good,Elementary (1-5),0,0,0,Science,Math,20.9,Needs Improvement,0
+93,Koenraad,Garci,Male,12,19,42,90,9,47,3,1,0,0,0,37.25,89.44,23.33,61,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,It,40.2,Failing,0
+94,Dru,Radki,Male,8,14,47,63,27,78,79,1,0,1,1,61.75,92.22,26.11,61,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,It,Science,24.3,Needs Improvement,0
+95,Beryl,Bishop,Female,3,10,4,92,50,50,78,1,1,1,1,67.5,94.44,2.22,14,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Math,Science,21.0,Needs Improvement,0
+96,Cliff,Wilber,Male,5,5,32,51,50,50,51,1,1,1,1,50.5,97.22,17.78,37,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,0.58,Passing,0
+97,Demetre,Leehane,Male,6,5,45,50,50,50,99,1,1,1,1,62.25,97.22,25.0,50,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,It,Math,24.5,Needs Improvement,0
+98,Willy,Mellody,Male,4,9,1,50,50,50,56,1,1,1,1,51.5,95.0,0.56,10,Acceptable,Pass,Good,Elementary (1-5),0,0,0,It,Math,3.0,Passing,0
+99,Valentino,Storm,Male,9,7,37,6,84,93,35,0,1,1,0,54.5,96.11,20.56,44,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,2,English,Math,41.17,Passing,0
+100,Andrus,D'Ambrosi,Male,10,16,8,82,44,71,55,1,0,1,1,63.0,91.11,4.44,24,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,Math,Science,16.83,Needs Improvement,0
+101,Kira,Brownjohn,Female,8,5,30,7,45,45,78,0,0,0,1,43.75,97.22,16.67,35,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,3,It,Math,29.02,Failing,0
+102,Cullan,Brandel,Male,12,1,26,40,83,8,22,0,1,0,0,38.25,99.44,14.44,27,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,3,Science,English,32.58,Failing,0
+103,Thaxter,Macoun,Male,10,12,46,35,0,45,89,0,0,0,1,42.25,93.33,25.56,58,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Science,36.65,Failing,0
+104,Dina,Gunston,Female,11,6,44,72,14,15,82,1,0,0,1,45.75,96.67,24.44,50,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,2,It,Science,36.32,Failing,0
+105,Paten,Guiness,Male,11,7,39,88,65,54,29,1,1,1,0,59.0,96.11,21.67,46,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Math,It,24.51,Passing,0
+106,Bjorn,Causer,Male,11,23,1,30,22,11,73,0,0,0,1,34.0,87.22,0.56,24,Excessive Absence,Fail,Concerning,High (9-12),0,1,3,It,English,27.14,Failing,0
+107,Zared,Onele,Male,12,26,44,7,25,16,21,0,0,0,0,17.25,85.56,24.44,70,Excessive Absence,Fail,Exessive,High (9-12),0,1,4,Science,Math,7.76,Failing,0
+108,Phyllys,Spaxman,Female,6,22,25,80,50,50,64,1,1,1,1,61.0,87.78,13.89,47,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,Science,14.28,Needs Improvement,0
+109,Shani,Ciric,Female,9,22,48,20,74,14,92,0,1,0,1,50.0,87.78,26.67,70,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,It,English,38.88,Passing,0
+110,Tobi,Anglin,Female,1,3,0,50,50,76,75,1,1,1,1,62.75,98.33,0.0,3,Acceptable,Pass,Good,Elementary (1-5),0,0,0,English,Math,14.73,Needs Improvement,0
+111,Cad,Binny,Male,10,14,36,25,70,7,79,0,1,0,1,45.25,92.22,20.0,50,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,It,English,34.76,Failing,0
+112,Velvet,Beade,Female,1,30,17,57,77,74,87,1,1,1,1,73.75,83.33,9.44,47,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,12.47,Satisfactory,0
+113,Silvester,Wainman,Male,10,7,33,44,10,13,2,0,0,0,0,17.25,96.11,18.33,40,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,4,Math,It,18.43,Failing,0
+114,Leda,Eginton,Female,5,0,33,50,50,59,78,1,1,1,1,59.25,100.0,18.33,33,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,13.2,Passing,0
+115,Carce,Schooley,Male,2,17,28,64,64,72,50,1,1,1,1,62.5,90.56,15.56,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,It,9.15,Needs Improvement,0
+116,Jade,Launder,Female,2,15,50,50,75,82,50,1,1,1,1,64.25,91.67,27.78,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,16.7,Needs Improvement,0
+117,Nancie,Jakeman,Female,5,0,12,56,72,75,66,1,1,1,1,67.25,100.0,6.67,12,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,English,Math,8.38,Needs Improvement,0
+118,Rich,Ogilvie,Male,8,16,2,22,24,18,70,0,0,0,1,33.5,91.11,1.11,18,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,3,It,English,24.46,Failing,0
+119,Rivkah,MacConnal,Female,9,22,8,22,5,72,59,0,0,1,1,39.5,87.78,4.44,30,Excessive Absence,Fail,Concerning,High (9-12),0,1,2,English,Science,31.27,Failing,0
+120,Francesca,Clancy,Female,11,6,24,53,39,72,1,1,0,1,0,41.25,96.67,13.33,30,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,2,English,It,30.05,Failing,0
+121,Consuela,Stebbings,Female,8,4,25,25,65,47,19,0,1,0,0,39.0,97.78,13.89,29,Excessive Tardiness,Fail,Concerning,Middle (6-8),0,1,3,Science,It,21.1,Failing,0
+122,Bridget,Panting,Female,1,15,11,50,58,52,50,1,1,1,1,52.5,91.67,6.11,26,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,Math,3.79,Passing,0
+123,Rockwell,Ryles,Male,5,5,24,81,50,50,50,1,1,1,1,57.75,97.22,13.33,29,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Math,Science,15.5,Passing,0
+124,Fredric,Priestland,Male,1,30,15,71,50,96,69,1,1,1,1,71.5,83.33,8.33,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,18.88,Satisfactory,0
+125,Derrick,Lackington,Male,8,19,17,28,75,51,56,0,1,1,1,52.5,89.44,9.44,36,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Science,Math,19.33,Passing,0
+126,Allis,Davion,Female,4,1,16,66,50,54,79,1,1,1,1,62.25,99.44,8.89,17,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Science,13.07,Needs Improvement,0
+127,Carri,Kamena,Female,12,8,44,85,3,21,32,1,0,0,0,35.25,95.56,24.44,52,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,Science,35.26,Failing,0
+128,Berget,Palley,Female,9,4,40,39,96,3,19,0,1,0,0,39.25,97.78,22.22,44,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Science,English,40.6,Failing,0
+129,Delores,Barsby,Female,7,6,29,69,49,52,31,1,0,1,0,50.25,96.67,16.11,35,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,2,Math,It,15.56,Passing,0
+130,Fawn,McJury,Female,7,12,50,61,1,25,32,1,0,0,0,29.75,93.33,27.78,62,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,Math,Science,24.7,Failing,0
+131,Colan,Wallicker,Male,8,0,25,83,58,42,18,1,1,0,0,50.25,100.0,13.89,25,Excessive Tardiness,Pass,Concerning,Middle (6-8),0,1,2,Math,It,27.33,Passing,0
+132,Jessi,Yakovitch,Female,2,16,48,69,50,93,50,1,1,1,1,65.5,91.11,26.67,64,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,20.4,Needs Improvement,0
+133,Crawford,McTear,Male,12,18,38,3,23,55,50,0,0,1,1,32.75,90.0,21.11,56,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,English,Math,24.31,Failing,0
+134,Griffie,Whinney,Male,1,9,37,50,50,65,79,1,1,1,1,61.0,95.0,20.56,46,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,13.93,Needs Improvement,0
+135,Ryley,Lyons,Male,1,24,14,59,50,50,76,1,1,1,1,58.75,86.67,7.78,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,12.26,Passing,0
+136,Calla,Tales,Female,6,7,46,50,51,50,50,1,1,1,1,50.25,96.11,25.56,53,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,Science,Math,0.5,Passing,0
+137,Inga,Cumber,Female,10,28,16,56,20,29,15,1,0,0,0,30.0,84.44,8.89,44,Excessive Absence,Fail,Exessive,High (9-12),1,1,3,Math,It,18.28,Failing,0
+138,Katherina,Scrymgeour,Female,6,4,34,50,50,93,79,1,1,1,1,68.0,97.78,18.89,38,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,English,Math,21.56,Needs Improvement,0
+139,Elliott,Boshell,Male,11,30,47,84,0,84,3,1,0,1,0,42.75,83.33,26.11,77,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,Math,Science,47.65,Failing,0
+140,Pauly,Joskowicz,Male,11,11,35,15,13,35,39,0,0,0,0,25.5,93.89,19.44,46,Excessive Absence,Fail,Exessive,High (9-12),0,1,4,It,Science,13.4,Failing,0
+141,Annamaria,Philipsson,Female,12,7,49,14,56,32,88,0,1,0,1,47.5,96.11,27.22,56,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,2,It,Math,32.02,Failing,0
+142,Ariana,Noor,Female,2,20,20,80,86,72,50,1,1,1,1,72.0,88.89,11.11,40,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,15.75,Satisfactory,0
+143,Lucian,Syvret,Male,11,0,15,48,65,8,47,0,1,0,0,42.0,100.0,8.33,15,Acceptable,Fail,Moderate,High (9-12),0,0,3,Science,English,24.12,Failing,0
+144,Raoul,Ochterlonie,Male,9,10,2,5,31,62,30,0,0,1,0,32.0,94.44,1.11,12,Acceptable,Fail,Moderate,High (9-12),0,0,3,English,Math,23.34,Failing,0
+145,Grant,Cadreman,Male,10,0,31,35,12,25,60,0,0,0,1,33.0,100.0,17.22,31,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Science,20.31,Failing,0
+146,Thorny,Rosewell,Male,5,7,37,50,77,50,96,1,1,1,1,68.25,96.11,20.56,44,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,22.46,Needs Improvement,0
+147,Sonnie,Coggings,Male,10,1,6,32,5,17,79,0,0,0,1,33.25,99.44,3.33,7,Acceptable,Fail,Good,High (9-12),0,0,3,It,Science,32.44,Failing,0
+148,Jarret,Skerrett,Male,11,20,39,80,27,60,34,1,0,1,0,50.25,88.89,21.67,59,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,Math,Science,24.39,Passing,0
+149,Jarvis,Friel,Male,2,22,29,96,50,50,81,1,1,1,1,69.25,87.78,16.11,51,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,23.06,Needs Improvement,0
+150,Dorian,Clackers,Male,1,7,8,51,50,50,50,1,1,1,1,50.25,96.11,4.44,15,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Math,Science,0.5,Passing,0
+151,Dianne,Roads,Female,8,27,0,37,21,35,47,0,0,0,0,35.0,85.0,0.0,27,Excessive Absence,Fail,Concerning,Middle (6-8),0,1,4,It,Science,10.71,Failing,0
+152,Pepita,Nisbet,Female,11,7,23,16,66,24,49,0,1,0,0,38.75,96.11,12.78,30,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,3,Science,Math,22.97,Failing,0
+153,Fitz,Scatchard,Male,10,26,15,91,8,52,7,1,0,1,0,39.5,85.56,8.33,41,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,It,40.24,Failing,0
+154,Norah,Flecknell,Female,4,28,11,50,82,50,100,1,1,1,1,70.5,84.44,6.11,39,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,24.79,Satisfactory,0
+155,Granger,Doddrell,Male,3,12,13,50,73,50,67,1,1,1,1,60.0,93.33,7.22,25,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,Math,11.8,Needs Improvement,0
+156,Kaitlin,Christley,Female,7,13,2,16,49,23,16,0,0,0,0,26.0,92.78,1.11,15,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,4,Science,Math,15.68,Failing,0
+157,Payton,Ruberti,Male,7,26,34,73,62,6,22,1,1,0,0,40.75,85.56,18.89,60,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,Math,English,31.89,Failing,0
+158,Hobard,Wardell,Male,12,18,46,29,37,6,23,0,0,0,0,23.75,90.0,25.56,64,Excessive Absence,Fail,Exessive,High (9-12),0,1,4,Science,English,13.15,Failing,0
+159,Yurik,Smitherham,Male,2,23,47,50,50,50,50,1,1,1,1,50.0,87.22,26.11,70,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+160,Flossi,Ingon,Female,5,20,40,50,50,50,87,1,1,1,1,59.25,88.89,22.22,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,18.5,Passing,0
+161,Branden,Beahan,Male,12,18,8,17,88,29,28,0,1,0,0,40.5,90.0,4.44,26,Excessive Absence,Fail,Concerning,High (9-12),0,1,3,Science,Math,32.13,Failing,0
+162,Cly,Spikeings,Male,12,4,24,1,53,67,26,0,1,1,0,36.75,97.78,13.33,28,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,2,English,Math,29.28,Failing,0
+163,Giulia,Klemps,Female,4,4,12,50,50,96,50,1,1,1,1,61.5,97.78,6.67,16,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,English,Math,23.0,Needs Improvement,0
+164,Boonie,Bourbon,Male,8,2,24,25,100,72,37,0,1,1,0,58.5,98.89,13.33,26,Excessive Tardiness,Pass,Concerning,Middle (6-8),0,1,2,Science,Math,34.1,Passing,0
+165,Dalt,Lasham,Male,9,0,22,40,43,31,36,0,0,0,0,37.5,100.0,12.22,22,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,4,Science,English,5.2,Failing,0
+166,Monique,Wellbank,Female,12,2,23,64,10,23,85,1,0,0,1,45.5,98.89,12.78,25,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,2,It,Science,34.97,Failing,0
+167,Nancey,Olle,Female,11,30,35,46,31,81,95,0,0,1,1,63.25,83.33,19.44,65,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,It,Science,29.78,Needs Improvement,0
+168,Roxy,Gregg,Female,5,27,6,64,50,90,50,1,1,1,1,63.5,85.0,3.33,33,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,18.86,Needs Improvement,0
+169,Viola,Kordt,Female,2,23,39,50,94,53,50,1,1,1,1,61.75,87.22,21.67,62,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,21.55,Needs Improvement,0
+170,Ax,De Giorgis,Male,7,4,37,31,27,72,26,0,0,1,0,39.0,97.78,20.56,41,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,3,English,It,22.11,Failing,0
+171,Dian,Downing,Female,12,10,18,98,13,25,65,1,0,0,1,50.25,94.44,10.0,28,Tardiness and absence issues,Pass,Concerning,High (9-12),0,1,2,Math,Science,38.83,Passing,0
+172,Cecil,Epine,Male,1,30,0,65,69,62,94,1,1,1,1,72.5,83.33,0.0,30,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,It,English,14.62,Satisfactory,0
+173,Erasmus,Hardaway,Male,1,20,4,50,50,52,50,1,1,1,1,50.5,88.89,2.22,24,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,1.0,Passing,0
+174,Luciana,Cotty,Female,5,13,2,50,50,71,50,1,1,1,1,55.25,92.78,1.11,15,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,English,Math,10.5,Passing,0
+175,Mabelle,Fernando,Female,12,28,20,19,64,47,61,0,1,0,1,47.75,84.44,11.11,48,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,Science,Math,20.55,Failing,0
+176,Valentine,Hillyatt,Female,11,1,40,85,19,40,14,1,0,0,0,39.5,99.44,22.22,41,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,It,32.36,Failing,0
+177,Gerrilee,Thorby,Female,8,6,32,52,0,34,71,1,0,0,1,39.25,96.67,17.78,38,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,It,Science,30.21,Failing,0
+178,Jethro,Vannacci,Male,7,1,17,3,42,49,66,0,0,0,1,40.0,99.44,9.44,18,Acceptable,Fail,Moderate,Middle (6-8),0,0,3,It,Math,26.65,Failing,0
+179,Borg,Stout,Male,4,14,8,98,50,83,50,1,1,1,1,70.25,92.22,4.44,22,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,Science,24.17,Satisfactory,0
+180,Malorie,Thorpe,Female,7,27,4,55,24,38,79,1,0,0,1,49.0,85.0,2.22,31,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,It,Science,23.68,Failing,0
+181,Granger,Helks,Male,7,24,39,8,37,7,81,0,0,0,1,33.25,86.67,21.67,63,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,It,English,34.74,Failing,0
+182,Aldis,D'Alessio,Male,10,18,43,56,33,24,64,1,0,0,1,44.25,90.0,23.89,61,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,It,English,18.84,Failing,0
+183,Jerrilyn,Leverette,Female,7,13,47,96,70,78,16,1,1,1,0,65.0,92.78,26.11,60,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Math,It,34.43,Needs Improvement,0
+184,Jesselyn,De La Cote,Female,11,27,21,16,26,38,92,0,0,0,1,43.0,85.0,11.67,48,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Math,33.88,Failing,0
+185,Ogden,Gland,Male,7,11,37,24,71,15,54,0,1,0,1,41.0,93.89,20.56,48,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,Science,English,26.04,Failing,0
+186,Templeton,Isgate,Male,4,29,6,50,99,99,50,1,1,1,1,74.5,83.89,3.33,35,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,28.29,Satisfactory,0
+187,Tabby,Vinden,Female,1,10,25,50,79,95,87,1,1,1,1,77.75,94.44,13.89,35,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,19.62,Satisfactory,0
+188,Forbes,Haslehurst,Male,1,7,21,59,73,89,87,1,1,1,1,77.0,96.11,11.67,28,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,13.95,Satisfactory,0
+189,Jesse,Aven,Male,4,8,47,50,83,86,50,1,1,1,1,67.25,95.56,26.11,55,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,19.96,Needs Improvement,0
+190,Cass,Baiss,Female,10,16,18,26,96,1,88,0,1,0,1,52.75,91.11,10.0,34,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,Science,English,46.57,Passing,0
+191,Gilberto,Pottle,Male,9,14,33,13,63,83,45,0,1,1,0,51.0,92.22,18.33,47,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,Math,29.71,Passing,0
+192,Marcellina,Scottini,Female,3,28,45,59,50,50,61,1,1,1,1,55.0,84.44,25.0,73,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,It,Science,5.83,Passing,0
+193,Erwin,Northley,Male,8,23,39,18,77,48,45,0,1,0,0,47.0,87.22,21.67,62,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,Science,Math,24.12,Failing,0
+194,Blithe,Elmhirst,Female,6,3,40,66,59,50,72,1,1,1,1,61.75,98.33,22.22,43,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,It,English,9.46,Needs Improvement,0
+195,Justis,Dahl,Male,10,13,22,24,95,16,2,0,1,0,0,34.25,92.78,12.22,35,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Science,It,41.51,Failing,0
+196,Herminia,Kitney,Female,4,12,16,77,50,92,57,1,1,1,1,69.0,93.33,8.89,28,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Science,19.13,Needs Improvement,0
+197,Sissie,Harvatt,Female,5,25,13,99,55,50,98,1,1,1,1,75.5,86.11,7.22,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,26.64,Satisfactory,0
+198,Alfy,Netherclift,Male,9,26,26,20,2,92,59,0,0,1,1,43.25,85.56,14.44,52,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,English,Science,40.28,Failing,0
+199,Marijo,Frangleton,Female,3,14,0,80,50,50,50,1,1,1,1,57.5,92.22,0.0,14,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,Math,Science,15.0,Passing,0
+200,Franny,Vitte,Female,9,0,2,100,9,14,80,1,0,0,1,50.75,100.0,1.11,2,Acceptable,Pass,Good,High (9-12),0,0,2,Math,Science,46.1,Passing,0
+201,Konrad,Davidou,Male,12,1,18,66,21,42,53,1,0,0,1,45.5,99.44,10.0,19,Acceptable,Fail,Moderate,High (9-12),0,0,2,Math,Science,19.05,Failing,0
+202,Homer,Baptie,Male,3,30,35,81,86,50,50,1,1,1,1,66.75,83.33,19.44,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,19.45,Needs Improvement,0
+203,Britni,Dalgetty,Female,4,10,11,50,50,79,50,1,1,1,1,57.25,94.44,6.11,21,Acceptable,Pass,Concerning,Elementary (1-5),0,0,0,English,Math,14.5,Passing,0
+204,Heidie,Spoor,Female,5,12,36,85,57,50,50,1,1,1,1,60.5,93.33,20.0,48,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,16.66,Needs Improvement,0
+205,Bartholomew,Paudin,Male,12,5,49,99,12,86,68,1,0,1,1,66.25,97.22,27.22,54,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Math,Science,38.34,Needs Improvement,0
+206,Neale,Malinson,Male,10,23,5,99,61,74,40,1,1,1,0,68.5,87.22,2.78,28,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,Math,It,24.69,Needs Improvement,0
+207,Anallise,Hoffman,Female,3,26,38,94,57,50,98,1,1,1,1,74.75,85.56,21.11,64,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,24.76,Satisfactory,0
+208,Christos,Windebank,Male,8,26,14,38,43,10,65,0,0,0,1,39.0,85.56,7.78,40,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,It,English,22.61,Failing,0
+209,Corenda,Muxworthy,Female,4,1,34,79,97,52,52,1,1,1,1,70.0,99.44,18.89,35,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,22.05,Satisfactory,0
+210,Moria,Windybank,Female,7,24,21,97,86,90,58,1,1,1,1,82.75,86.67,11.67,45,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,It,17.11,Good,0
+211,Hodge,Daverin,Male,3,17,1,50,72,50,50,1,1,1,1,55.5,90.56,0.56,18,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,Science,Math,11.0,Passing,0
+212,Agna,Emerton,Female,1,9,6,50,58,74,50,1,1,1,1,58.0,95.0,3.33,15,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,English,Math,11.31,Passing,0
+213,Jaye,Jahnig,Male,10,1,1,37,6,68,100,0,0,1,1,52.75,99.44,0.56,2,Acceptable,Pass,Good,High (9-12),0,0,2,It,Science,40.41,Passing,0
+214,Betsey,Ayre,Female,9,9,47,81,91,77,75,1,1,1,1,81.0,95.0,26.11,56,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,0,Science,It,7.12,Good,0
+215,Jodie,Sterry,Male,5,25,29,85,90,50,50,1,1,1,1,68.75,86.11,16.11,54,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,21.75,Needs Improvement,0
+216,Lynne,Edscer,Female,6,27,38,50,50,50,92,1,1,1,1,60.5,85.0,21.11,65,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,Math,21.0,Needs Improvement,0
+217,Meta,Rapier,Female,3,0,17,50,50,50,98,1,1,1,1,62.0,100.0,9.44,17,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,24.0,Needs Improvement,0
+218,Selene,Torrans,Female,8,4,4,0,43,67,62,0,0,1,1,43.0,97.78,2.22,8,Acceptable,Fail,Good,Middle (6-8),0,0,2,English,Math,30.47,Failing,0
+219,Bessie,Craker,Female,11,16,5,38,69,27,1,0,1,0,0,33.75,91.11,2.78,21,Excessive Absence,Fail,Concerning,High (9-12),0,1,3,Science,It,28.16,Failing,0
+220,Jay,Roelofs,Male,3,22,21,67,50,63,60,1,1,1,1,60.0,87.78,11.67,43,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,7.26,Needs Improvement,0
+221,Deeyn,Valance,Female,12,12,41,23,73,100,13,0,1,1,0,52.25,93.33,22.78,53,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,It,41.26,Passing,0
+222,Jo,Craigmyle,Male,9,1,30,38,11,15,63,0,0,0,1,31.75,99.44,16.67,31,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Science,23.99,Failing,0
+223,Yvonne,Rajchert,Female,5,26,23,71,84,50,83,1,1,1,1,72.0,85.56,12.78,49,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,15.81,Satisfactory,0
+224,Ellette,Matasov,Female,3,6,49,53,50,50,60,1,1,1,1,53.25,96.67,27.22,55,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,4.72,Passing,0
+225,Carlota,Seath,Female,12,9,33,17,66,49,85,0,1,0,1,54.25,95.0,18.33,42,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,2,It,Math,28.86,Passing,0
+226,Dalt,Rampling,Male,6,15,15,95,50,61,81,1,1,1,1,71.75,91.67,8.33,30,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Math,Science,20.12,Satisfactory,0
+227,Kennith,Warlton,Male,12,16,39,26,48,63,30,0,0,1,0,41.75,91.11,21.67,55,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,English,Math,17.1,Failing,0
+228,Selena,Kruschov,Female,10,4,47,10,16,26,88,0,0,0,1,35.0,97.78,26.11,51,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Math,35.94,Failing,0
+229,Francis,Povey,Male,7,9,34,83,91,67,68,1,1,1,1,77.25,95.0,18.89,43,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,Science,English,11.73,Satisfactory,0
+230,Tatiana,Peregrine,Female,8,16,24,79,61,43,46,1,1,0,0,57.25,91.11,13.33,40,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,Math,English,16.5,Passing,0
+231,Bernete,Claffey,Female,10,21,32,55,22,2,25,1,0,0,0,26.0,88.33,17.78,53,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,English,21.86,Failing,0
+232,Moshe,Ounsworth,Male,2,5,41,61,90,93,98,1,1,1,1,85.5,97.22,22.78,46,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,16.66,Good,0
+233,Rhodia,Danniell,Female,4,17,10,100,51,50,50,1,1,1,1,62.75,90.56,5.56,27,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,English,24.84,Needs Improvement,0
+234,Rodie,Werner,Female,12,6,33,0,93,68,26,0,1,1,0,46.75,96.67,18.33,39,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,2,Science,Math,41.66,Failing,0
+235,Laryssa,Inger,Female,11,5,4,61,59,82,28,1,1,1,0,57.5,97.22,2.22,9,Acceptable,Pass,Good,High (9-12),0,0,1,English,It,22.25,Passing,0
+236,Michal,Axelbey,Female,10,1,44,86,20,40,0,1,0,0,0,36.5,99.44,24.44,45,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,It,36.82,Failing,0
+237,Bucky,Yakubov,Male,11,18,33,79,46,27,85,1,0,0,1,59.25,90.0,18.33,51,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,It,English,27.5,Passing,0
+238,Blondy,Iacovolo,Female,8,28,36,25,11,56,90,0,0,1,1,45.5,84.44,20.0,64,Excessive Absence,Fail,Exessive,Middle (6-8),1,1,2,It,Science,35.12,Failing,0
+239,Darbee,Splevin,Male,5,18,27,50,50,50,68,1,1,1,1,54.5,90.0,15.0,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,9.0,Passing,0
+240,Connie,Byrcher,Male,8,0,3,38,22,2,68,0,0,0,1,32.5,100.0,1.67,3,Acceptable,Fail,Good,Middle (6-8),0,0,3,It,English,27.87,Failing,0
+241,Anne-corinne,Raeburn,Female,1,15,22,51,50,57,89,1,1,1,1,61.75,91.67,12.22,37,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,18.43,Needs Improvement,0
+242,Jillian,Fitzsymon,Female,5,17,36,50,50,50,50,1,1,1,1,50.0,90.56,20.0,53,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+243,Reider,Plumb,Male,3,0,27,86,74,56,73,1,1,1,1,72.25,100.0,15.0,27,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Math,English,12.34,Satisfactory,0
+244,Hillyer,O'Shevlin,Male,8,9,39,94,99,17,29,1,1,0,0,59.75,95.0,21.67,48,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,2,Science,English,42.77,Passing,0
+245,Noe,Pirelli,Male,3,6,31,79,93,100,53,1,1,1,1,81.25,96.67,17.22,37,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,It,20.76,Good,0
+246,Catharina,Bourdel,Female,4,0,29,50,50,50,66,1,1,1,1,54.0,100.0,16.11,29,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,It,Math,8.0,Passing,0
+247,Angelia,Bootman,Female,3,0,31,62,55,60,84,1,1,1,1,65.25,100.0,17.22,31,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,12.84,Needs Improvement,0
+248,Tuck,Le Guin,Male,1,18,31,50,50,50,50,1,1,1,1,50.0,90.0,17.22,49,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+249,Alayne,Pasek,Female,3,25,17,74,50,72,78,1,1,1,1,68.5,86.11,9.44,42,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,12.58,Needs Improvement,0
+250,Elisha,Game,Male,10,8,1,52,6,98,78,1,0,1,1,58.5,95.56,0.56,9,Acceptable,Pass,Good,High (9-12),0,0,1,English,Science,39.75,Passing,0
+251,Haily,Templar,Female,12,27,20,35,80,84,94,0,1,1,1,73.25,85.0,11.11,47,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Math,26.17,Satisfactory,0
+252,Tobe,Mansford,Male,6,11,7,97,50,50,50,1,1,1,1,61.75,93.89,3.89,18,Excessive Absence,Pass,Moderate,Middle (6-8),0,1,0,Math,Science,23.5,Needs Improvement,0
+253,Jerri,Farfolomeev,Male,6,25,14,50,50,75,71,1,1,1,1,61.5,86.11,7.78,39,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,Math,13.38,Needs Improvement,0
+254,Wynne,Romand,Female,1,10,5,50,74,50,71,1,1,1,1,61.25,94.44,2.78,15,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Science,Math,13.05,Needs Improvement,0
+255,Kalindi,Zouch,Female,9,29,47,51,33,4,57,1,0,0,1,36.25,83.89,26.11,76,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,It,English,23.8,Failing,0
+256,Obediah,Murtagh,Male,11,6,14,9,46,62,26,0,0,1,0,35.75,96.67,7.78,20,Acceptable,Fail,Moderate,High (9-12),0,0,3,English,Math,23.13,Failing,0
+257,Angele,Jahns,Female,6,14,26,57,50,77,50,1,1,1,1,58.5,92.22,14.44,40,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,Science,12.77,Passing,0
+258,Dede,Shill,Female,1,5,43,50,80,50,83,1,1,1,1,65.75,97.22,23.89,48,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,18.23,Needs Improvement,0
+259,Tim,Jepp,Male,10,10,43,6,20,40,91,0,0,0,1,39.25,94.44,23.89,53,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Math,37.21,Failing,0
+260,Margarete,Finlason,Female,3,2,42,50,50,72,50,1,1,1,1,55.5,98.89,23.33,44,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,11.0,Passing,0
+261,Tarah,Kopec,Female,8,16,2,80,30,60,3,1,0,1,0,43.25,91.11,1.11,18,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,2,Math,It,33.8,Failing,0
+262,Reagan,Martugin,Male,4,15,16,50,67,50,52,1,1,1,1,54.75,91.67,8.89,31,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,8.22,Passing,0
+263,Lydia,Kesten,Female,11,11,48,97,37,89,62,1,0,1,1,71.25,93.89,26.67,59,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,Science,27.31,Satisfactory,0
+264,Moyra,Limbert,Female,11,16,20,58,9,14,1,1,0,0,0,20.5,91.11,11.11,36,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,It,25.57,Failing,0
+265,Gillie,Kelmere,Female,8,26,16,52,100,66,82,1,1,1,1,75.0,85.56,8.89,42,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,Math,20.69,Satisfactory,0
+266,Jewel,Woolbrook,Female,2,17,13,50,50,72,50,1,1,1,1,55.5,90.56,7.22,30,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,11.0,Passing,0
+267,Chandler,Buzek,Male,12,0,31,98,33,15,35,1,0,0,0,45.25,100.0,17.22,31,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,English,36.3,Failing,0
+268,Harriott,Innocenti,Female,3,22,23,50,74,68,50,1,1,1,1,60.5,87.78,12.78,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,12.37,Needs Improvement,0
+269,Halette,Sibery,Female,12,5,16,3,80,37,4,0,1,0,0,31.0,97.22,8.89,21,Acceptable,Fail,Concerning,High (9-12),0,0,3,Science,Math,36.29,Failing,0
+270,Raffarty,Petronis,Male,10,15,38,25,47,57,99,0,0,1,1,57.0,91.67,21.11,53,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,It,Math,31.03,Passing,0
+271,Syman,Gorler,Male,1,25,34,64,50,94,56,1,1,1,1,66.0,86.11,18.89,59,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,19.53,Needs Improvement,0
+272,Dorree,Scardifeild,Female,3,22,47,50,50,50,50,1,1,1,1,50.0,87.78,26.11,69,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+273,Seumas,Simonini,Male,12,7,3,59,34,71,3,1,0,1,0,41.75,96.11,1.67,10,Acceptable,Fail,Good,High (9-12),0,0,2,English,It,30.08,Failing,0
+274,Dolores,Kondratenya,Female,5,7,30,50,50,50,51,1,1,1,1,50.25,96.11,16.67,37,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,0.5,Passing,0
+275,Neils,Isabell,Male,3,10,30,50,50,92,50,1,1,1,1,60.5,94.44,16.67,40,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,21.0,Needs Improvement,0
+276,Arlinda,Kovnot,Female,10,6,42,97,37,27,36,1,0,0,0,49.25,96.67,23.33,48,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,English,32.15,Failing,0
+277,Gerry,Bhar,Female,11,25,26,69,79,43,68,1,1,0,1,64.75,86.11,14.44,51,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Science,English,15.33,Needs Improvement,0
+278,Sigrid,Swafield,Female,12,17,35,87,91,57,50,1,1,1,1,71.25,90.56,19.44,52,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,Science,It,20.76,Satisfactory,0
+279,Dmitri,Dorro,Male,7,22,21,51,12,96,2,1,0,1,0,40.25,87.78,11.67,43,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,English,It,42.76,Failing,0
+280,Carce,Ackenhead,Male,12,30,8,2,15,5,34,0,0,0,0,14.0,83.33,4.44,38,Excessive Absence,Fail,Exessive,High (9-12),1,1,4,It,Math,14.45,Failing,0
+281,Merline,Witheford,Female,2,17,5,50,86,50,50,1,1,1,1,59.0,90.56,2.78,22,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,Math,18.0,Passing,0
+282,Lesley,Nore,Male,12,21,15,23,30,27,63,0,0,0,1,35.75,88.33,8.33,36,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Math,18.39,Failing,0
+283,Clarissa,Attenborrow,Female,7,11,16,79,84,7,76,1,1,0,1,61.5,93.89,8.89,27,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,1,Science,English,36.48,Needs Improvement,0
+284,Leanor,Bynert,Female,12,26,29,97,98,13,77,1,1,0,1,71.25,85.56,16.11,55,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Science,English,40.02,Satisfactory,0
+285,Holden,O'Dulchonta,Male,7,19,23,96,61,96,92,1,1,1,1,86.25,89.44,12.78,42,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,Science,16.94,Good,0
+286,Fredek,Bavester,Male,10,30,48,15,42,65,18,0,0,1,0,35.0,83.33,26.67,78,Excessive Absence,Fail,Exessive,High (9-12),1,1,3,English,Math,23.37,Failing,0
+287,Davita,Goodley,Female,7,22,46,32,100,16,74,0,1,0,1,55.5,87.78,25.56,68,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,Science,English,38.45,Passing,0
+288,Orlando,Doughtery,Male,2,25,26,50,50,50,50,1,1,1,1,50.0,86.11,14.44,51,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+289,Etienne,Kullmann,Male,10,7,37,5,75,9,2,0,1,0,0,22.75,96.11,20.56,44,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Science,It,34.95,Failing,0
+290,Jacob,Haselgrove,Male,4,10,7,50,77,50,70,1,1,1,1,61.75,94.44,3.89,17,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Science,Math,13.87,Needs Improvement,0
+291,Bartel,Callander,Male,7,20,0,71,68,79,12,1,1,1,0,57.5,88.89,0.0,20,Excessive Absence,Pass,Moderate,Middle (6-8),0,1,1,English,It,30.69,Passing,0
+292,Gabey,Tordiffe,Female,4,28,42,97,51,50,50,1,1,1,1,62.0,84.44,23.33,70,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,23.34,Needs Improvement,0
+293,Dov,Arp,Male,9,24,38,35,17,87,44,0,0,1,0,45.75,86.67,21.11,62,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,English,Science,29.7,Failing,0
+294,Nancee,Potes,Female,5,11,45,90,92,72,50,1,1,1,1,76.0,93.89,25.0,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,19.53,Satisfactory,0
+295,Marian,Lighterness,Female,8,2,12,0,48,31,15,0,0,0,0,23.5,98.89,6.67,14,Acceptable,Fail,Moderate,Middle (6-8),0,0,4,Science,Math,20.66,Failing,0
+296,Adiana,Bloore,Female,2,14,10,50,50,95,50,1,1,1,1,61.25,92.22,5.56,24,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,22.5,Needs Improvement,0
+297,Andromache,Joesbury,Female,4,5,35,50,50,58,88,1,1,1,1,61.5,97.22,19.44,40,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,18.06,Needs Improvement,0
+298,Judon,Sexcey,Male,1,9,1,79,50,56,99,1,1,1,1,71.0,95.0,0.56,10,Acceptable,Pass,Good,Elementary (1-5),0,0,0,It,Science,22.46,Satisfactory,0
+299,Gaultiero,Enticott,Male,5,4,25,50,64,50,50,1,1,1,1,53.5,97.78,13.89,29,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Science,Math,7.0,Passing,0
+300,Flo,Moncrieffe,Female,1,15,23,54,50,97,50,1,1,1,1,62.75,91.67,12.78,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,22.91,Needs Improvement,0
+301,Dur,Twinborough,Male,7,15,36,42,83,18,15,0,1,0,0,39.5,91.67,20.0,51,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,Science,It,31.42,Failing,0
+302,Warden,Megarry,Male,4,13,23,50,50,50,61,1,1,1,1,52.75,92.78,12.78,36,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,5.5,Passing,0
+303,Gunar,Feehery,Male,12,11,3,49,98,49,38,0,1,0,0,58.5,93.89,1.67,14,Excessive Absence,Pass,Moderate,High (9-12),0,1,3,Science,It,26.84,Passing,0
+304,Collie,Swinney,Female,3,0,7,50,87,50,50,1,1,1,1,59.25,100.0,3.89,7,Acceptable,Pass,Good,Elementary (1-5),0,0,0,Science,Math,18.5,Passing,0
+305,Loria,Kilrow,Female,1,18,30,50,95,75,96,1,1,1,1,79.0,90.0,16.67,48,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,21.62,Satisfactory,0
+306,Lorenzo,Bourton,Male,2,23,42,98,50,53,50,1,1,1,1,62.75,87.22,23.33,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,23.54,Needs Improvement,0
+307,Bradan,Phippen,Male,11,19,3,7,76,69,42,0,1,1,0,48.5,89.44,1.67,22,Excessive Absence,Fail,Concerning,High (9-12),0,1,2,Science,Math,31.31,Failing,0
+308,Almeta,Loeber,Female,9,24,15,70,5,36,9,1,0,0,0,30.0,86.67,8.33,39,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,Science,30.01,Failing,0
+309,Daffi,Ovid,Female,7,14,13,21,16,91,54,0,0,1,1,45.5,92.22,7.22,27,Excessive Absence,Fail,Concerning,Middle (6-8),0,1,2,English,Science,34.7,Failing,0
+310,Yorgo,Bengtsen,Male,6,14,32,50,54,50,50,1,1,1,1,51.0,92.22,17.78,46,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,Math,2.0,Passing,0
+311,Pedro,Kristof,Male,2,15,37,70,71,87,89,1,1,1,1,79.25,91.67,20.56,52,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,10.14,Satisfactory,0
+312,Chloris,Gomersal,Female,9,4,9,87,21,9,4,1,0,0,0,30.25,97.78,5.0,13,Acceptable,Fail,Moderate,High (9-12),0,0,3,Math,It,38.5,Failing,0
+313,Beitris,Shackleford,Female,4,3,48,64,50,50,50,1,1,1,1,53.5,98.33,26.67,51,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,7.0,Passing,0
+314,Cheslie,Hanrott,Female,3,1,25,61,59,79,50,1,1,1,1,62.25,99.44,13.89,26,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,English,It,12.15,Needs Improvement,0
+315,Bibbie,Beccles,Female,9,17,12,9,64,39,20,0,1,0,0,33.0,90.56,6.67,29,Excessive Absence,Fail,Concerning,High (9-12),0,1,3,Science,Math,24.1,Failing,0
+316,Shep,Faircliff,Male,6,24,38,80,50,50,50,1,1,1,1,57.5,86.67,21.11,62,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,Science,15.0,Passing,0
+317,Nicola,Bloxam,Female,2,27,25,50,52,85,74,1,1,1,1,65.25,85.0,13.89,52,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,17.08,Needs Improvement,0
+318,Deb,Tanslie,Female,8,8,50,58,54,10,30,1,1,0,0,38.0,95.56,27.78,58,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,Math,English,22.39,Failing,0
+319,Katy,Ellingsworth,Female,12,7,29,89,16,23,38,1,0,0,0,41.5,96.11,16.11,36,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,Science,32.97,Failing,0
+320,Wanda,Vanlint,Female,8,18,12,5,63,63,19,0,1,1,0,37.5,90.0,6.67,30,Excessive Absence,Fail,Concerning,Middle (6-8),0,1,2,Science,Math,29.99,Failing,0
+321,Joann,Sharrocks,Female,2,8,18,50,50,50,80,1,1,1,1,57.5,95.56,10.0,26,Tardiness and absence issues,Pass,Concerning,Elementary (1-5),0,1,0,It,Math,15.0,Passing,0
+322,Jacklin,Gofford,Female,4,23,44,69,50,65,50,1,1,1,1,58.5,87.22,24.44,67,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,9.95,Passing,0
+323,Nora,Christian,Female,7,7,14,32,24,1,57,0,0,0,1,28.5,96.11,7.78,21,Acceptable,Fail,Concerning,Middle (6-8),0,0,3,It,English,23.1,Failing,0
+324,Birch,Mebes,Male,11,20,36,65,33,52,38,1,0,1,0,47.0,88.89,20.0,56,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,Science,14.45,Failing,0
+325,Tim,Simanenko,Female,9,21,35,38,52,97,22,0,1,1,0,52.25,88.33,19.44,56,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,It,32.25,Passing,0
+326,Afton,Bilt,Female,8,7,10,87,71,91,95,1,1,1,1,86.0,96.11,5.56,17,Acceptable,Pass,Moderate,Middle (6-8),0,0,0,It,Science,10.52,Good,0
+327,Halsy,Thulborn,Male,2,0,12,50,50,50,80,1,1,1,1,57.5,100.0,6.67,12,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,15.0,Passing,0
+328,Dahlia,Hewertson,Female,12,26,47,61,79,83,36,1,1,1,0,64.75,85.56,26.11,73,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,It,21.42,Needs Improvement,0
+329,Darby,O'Kenny,Male,3,29,8,100,79,50,66,1,1,1,1,73.75,83.89,4.44,37,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,21.14,Satisfactory,0
+330,Pooh,Heisler,Female,10,1,33,56,47,79,33,1,0,1,0,53.75,99.44,18.33,34,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,2,English,It,19.31,Passing,0
+331,Carie,Benninger,Female,3,3,38,50,65,92,85,1,1,1,1,73.0,98.33,21.11,41,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,19.13,Satisfactory,0
+332,Kliment,Spirritt,Male,5,17,50,50,50,50,50,1,1,1,1,50.0,90.56,27.78,67,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+333,Cherry,Marcos,Female,12,29,13,16,65,23,95,0,1,0,1,49.75,83.89,7.22,42,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,It,Math,37.12,Failing,0
+334,Forrest,Knatt,Male,3,22,24,50,50,50,50,1,1,1,1,50.0,87.78,13.33,46,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+335,Cullie,Crockatt,Male,1,22,18,50,50,50,50,1,1,1,1,50.0,87.78,10.0,40,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+336,Tony,Angood,Male,6,21,7,50,82,50,70,1,1,1,1,63.0,88.33,3.89,28,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Science,Math,15.79,Needs Improvement,0
+337,Ryun,Bordone,Male,11,17,43,71,89,41,49,1,1,0,0,62.5,90.56,23.89,60,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,Science,English,21.75,Needs Improvement,0
+338,Mohandas,Di Pietro,Male,5,19,34,50,75,50,51,1,1,1,1,56.5,89.44,18.89,53,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,12.34,Passing,0
+339,Vivian,Hopkins,Female,3,18,23,70,89,50,99,1,1,1,1,77.0,90.0,12.78,41,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,21.65,Satisfactory,0
+340,Hubert,Worrell,Male,12,29,44,93,60,12,53,1,1,0,1,54.5,83.89,24.44,73,Excessive Absence,Pass,Exessive,High (9-12),1,1,1,Math,English,33.27,Passing,0
+341,Verne,Lapsley,Male,10,3,41,60,0,30,24,1,0,0,0,28.5,98.33,22.78,44,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,Science,24.68,Failing,0
+342,Dillie,Dael,Male,9,23,37,93,13,4,69,1,0,0,1,44.75,87.22,20.56,60,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,English,43.15,Failing,0
+343,Jorgan,Cowlam,Male,3,18,30,50,60,50,53,1,1,1,1,53.25,90.0,16.67,48,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,4.72,Passing,0
+344,Gearalt,Wrightham,Male,4,26,19,50,77,99,50,1,1,1,1,69.0,85.56,10.56,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,23.71,Needs Improvement,0
+345,Lefty,Loveitt,Male,7,18,12,73,87,76,18,1,1,1,0,63.5,90.0,6.67,30,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,1,Science,It,30.92,Needs Improvement,0
+346,Nichole,Hencke,Female,5,11,23,50,50,54,98,1,1,1,1,63.0,93.89,12.78,34,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,23.41,Needs Improvement,0
+347,Darleen,Liverock,Female,6,27,34,50,51,50,50,1,1,1,1,50.25,85.0,18.89,61,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,Math,0.5,Passing,0
+348,Cassandre,Forker,Female,10,3,33,14,68,71,95,0,1,1,1,62.0,98.33,18.33,36,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,It,Math,34.21,Needs Improvement,0
+349,Dolf,Rentilll,Male,9,18,21,48,78,60,39,0,1,1,0,56.25,90.0,11.67,39,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,Science,It,16.86,Passing,0
+350,Shannon,Crosser,Male,5,28,19,50,92,50,68,1,1,1,1,65.0,84.44,10.56,47,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,19.9,Needs Improvement,0
+351,Kaspar,Bingley,Male,12,26,17,45,19,84,84,0,0,1,1,58.0,85.56,9.44,43,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,Science,31.84,Passing,0
+352,Janetta,Riordan,Female,8,10,30,30,34,88,100,0,0,1,1,63.0,94.44,16.67,40,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,2,It,Math,36.17,Needs Improvement,0
+353,Nappy,Blockey,Male,5,23,37,50,50,50,50,1,1,1,1,50.0,87.22,20.56,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+354,Olly,Yarr,Male,12,8,11,67,65,98,64,1,1,1,1,73.5,95.56,6.11,19,Acceptable,Pass,Moderate,High (9-12),0,0,0,English,It,16.38,Satisfactory,0
+355,Nicolina,Scalera,Female,12,29,46,56,4,48,46,1,0,0,0,38.5,83.89,25.56,75,Excessive Absence,Fail,Exessive,High (9-12),1,1,3,Math,Science,23.4,Failing,0
+356,Hagen,Margach,Male,7,5,48,9,19,85,56,0,0,1,1,42.25,97.22,26.67,53,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,English,Math,34.94,Failing,0
+357,Marcy,Tybalt,Female,9,11,9,42,99,57,2,0,1,1,0,50.0,93.89,5.0,20,Excessive Absence,Pass,Moderate,High (9-12),0,1,2,Science,It,40.07,Passing,0
+358,Zea,Withams,Female,11,19,9,94,99,57,68,1,1,1,1,79.5,89.44,5.0,28,Excessive Absence,Pass,Concerning,High (9-12),0,1,0,Science,English,20.24,Satisfactory,0
+359,Hercule,Toffetto,Male,11,5,48,34,3,60,45,0,0,1,0,35.5,97.22,26.67,53,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,English,Science,24.15,Failing,0
+360,Gilligan,Holsall,Female,11,13,22,12,62,89,92,0,1,1,1,63.75,92.78,12.22,35,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Math,37.04,Needs Improvement,0
+361,Byran,Ainsley,Male,12,30,15,98,53,70,46,1,1,1,0,66.75,83.33,8.33,45,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,It,23.14,Needs Improvement,0
+362,Quinn,Ewells,Male,10,21,34,79,3,74,86,1,0,1,1,60.5,88.33,18.89,55,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Science,38.65,Needs Improvement,0
+363,Keely,Quarrie,Female,7,24,41,58,62,80,48,1,1,1,0,62.0,86.67,22.78,65,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,English,It,13.37,Needs Improvement,0
+364,Salvatore,Pleace,Male,12,3,17,67,25,27,14,1,0,0,0,33.25,98.33,9.44,20,Acceptable,Fail,Moderate,High (9-12),0,0,3,Math,It,23.21,Failing,0
+365,Lanny,Targetter,Female,9,21,44,4,14,90,64,0,0,1,1,43.0,88.33,24.44,65,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,English,Math,40.87,Failing,0
+366,Faustine,Reddie,Female,3,20,1,50,50,50,50,1,1,1,1,50.0,88.89,0.56,21,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+367,Theda,Zimmermanns,Female,3,22,47,88,50,50,50,1,1,1,1,59.5,87.78,26.11,69,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,19.0,Passing,0
+368,Killian,Geare,Male,2,11,16,50,50,50,50,1,1,1,1,50.0,93.89,8.89,27,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+369,Nita,Reimer,Female,5,9,8,50,50,50,60,1,1,1,1,52.5,95.0,4.44,17,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,5.0,Passing,0
+370,Ferne,Moakler,Female,12,19,7,58,52,35,87,1,1,0,1,58.0,89.44,3.89,26,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,It,English,21.65,Passing,0
+371,Craggy,Iacobucci,Male,11,23,31,41,50,73,52,0,1,1,1,54.0,87.22,17.22,54,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,Math,13.54,Passing,0
+372,Elly,Crewther,Female,3,17,16,73,50,64,50,1,1,1,1,59.25,90.56,8.89,33,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,11.3,Passing,0
+373,Royall,Kaiser,Male,1,24,22,71,50,50,55,1,1,1,1,56.5,86.67,12.22,46,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,9.95,Passing,0
+374,Alberik,Labbati,Male,12,4,3,6,39,69,4,0,0,1,0,29.5,97.78,1.67,7,Acceptable,Fail,Good,High (9-12),0,0,3,English,It,30.84,Failing,0
+375,Cassy,Abson,Female,12,10,44,42,20,33,3,0,0,0,0,24.5,94.44,24.44,54,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,4,Math,It,16.94,Failing,0
+376,Nikki,Delbergue,Male,8,21,41,49,96,70,52,0,1,1,1,66.75,88.33,22.78,62,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Science,Math,21.59,Needs Improvement,0
+377,Kitty,Badwick,Female,12,11,25,85,95,57,61,1,1,1,1,74.5,93.89,13.89,36,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,Science,English,18.43,Satisfactory,0
+378,Shell,Langcastle,Male,4,29,19,90,50,50,50,1,1,1,1,60.0,83.89,10.56,48,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,20.0,Needs Improvement,0
+379,Arluene,Bartolini,Female,5,23,42,75,61,53,96,1,1,1,1,71.25,87.22,23.33,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,18.84,Satisfactory,0
+380,Charley,Crabbe,Male,12,2,38,75,59,72,9,1,1,1,0,53.75,98.89,21.11,40,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Math,It,30.63,Passing,0
+381,Teddy,Jorczyk,Female,10,16,48,99,52,22,83,1,1,0,1,64.0,91.11,26.67,64,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,English,34.13,Needs Improvement,0
+382,Leanora,Chatwin,Female,3,14,26,72,50,50,50,1,1,1,1,55.5,92.22,14.44,40,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,11.0,Passing,0
+383,Ellynn,Cucuzza,Female,3,17,9,52,61,50,97,1,1,1,1,65.0,90.56,5.0,26,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,It,English,21.86,Needs Improvement,0
+384,Lin,Whitmarsh,Female,6,26,3,72,50,50,50,1,1,1,1,55.5,85.56,1.67,29,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Math,Science,11.0,Passing,0
+385,Nate,Cubbinelli,Male,12,17,45,94,4,88,95,1,0,1,1,70.25,90.56,25.0,62,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Science,44.27,Satisfactory,0
+386,Hatti,Petzolt,Female,1,23,12,50,56,50,94,1,1,1,1,62.5,87.22,6.67,35,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,21.19,Needs Improvement,0
+387,Giuseppe,Jakeman,Male,3,2,18,50,76,50,86,1,1,1,1,65.5,98.89,10.0,20,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,18.36,Needs Improvement,0
+388,Kellen,Jerromes,Male,8,25,15,47,32,34,49,0,0,0,0,40.5,86.11,8.33,40,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,4,It,Science,8.74,Failing,0
+389,Perice,Lofts,Male,3,6,17,53,50,100,50,1,1,1,1,63.25,96.67,9.44,23,Acceptable,Pass,Concerning,Elementary (1-5),0,0,0,English,Science,24.54,Needs Improvement,0
+390,Ddene,Sumers,Female,6,13,12,93,60,59,50,1,1,1,1,65.5,92.78,6.67,25,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Math,It,18.88,Needs Improvement,0
+391,Babs,Billingham,Female,10,27,41,3,55,46,93,0,1,0,1,49.25,85.0,22.78,68,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,It,Math,36.95,Failing,0
+392,Stormy,Puttnam,Female,11,24,0,58,86,23,55,1,1,0,1,55.5,86.67,0.0,24,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,Science,English,25.77,Passing,0
+393,Mellicent,Belvard,Female,5,22,30,71,50,50,53,1,1,1,1,56.0,87.78,16.67,52,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,10.1,Passing,0
+394,Louella,Gribbin,Female,6,7,13,97,50,73,50,1,1,1,1,67.5,96.11,7.22,20,Acceptable,Pass,Moderate,Middle (6-8),0,0,0,Math,Science,22.46,Needs Improvement,0
+395,Eilis,Nelsen,Female,3,14,46,63,63,70,66,1,1,1,1,65.5,92.22,25.56,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,3.32,Needs Improvement,0
+396,Davie,Meehan,Male,2,18,6,57,50,50,53,1,1,1,1,52.5,90.0,3.33,24,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,Science,3.32,Passing,0
+397,Cornelle,Harbidge,Female,8,6,20,59,64,88,86,1,1,1,1,74.25,96.67,11.11,26,Tardiness and absence issues,Pass,Concerning,Middle (6-8),0,1,0,English,Math,14.89,Satisfactory,0
+398,Allix,Gatrill,Female,5,18,12,50,50,50,60,1,1,1,1,52.5,90.0,6.67,30,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,It,Math,5.0,Passing,0
+399,Angie,Sly,Female,7,12,6,32,91,77,67,0,1,1,1,66.75,93.33,3.33,18,Excessive Absence,Pass,Moderate,Middle (6-8),0,1,1,Science,Math,25.17,Needs Improvement,0
+400,Ninon,Penni,Female,10,30,38,94,72,60,19,1,1,1,0,61.25,83.33,21.11,68,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,It,31.49,Needs Improvement,0
+401,Forester,Callam,Male,1,23,46,50,92,55,55,1,1,1,1,63.0,87.22,25.56,69,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,19.48,Needs Improvement,0
+402,Harwilll,Elnough,Male,1,14,17,55,50,50,77,1,1,1,1,58.0,92.22,9.44,31,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,12.88,Passing,0
+403,Obie,Chavrin,Male,8,4,1,18,9,19,75,0,0,0,1,30.25,97.78,0.56,5,Acceptable,Fail,Good,Middle (6-8),0,0,3,It,Science,30.17,Failing,0
+404,Fanya,Aldwinckle,Female,11,22,18,81,25,65,12,1,0,1,0,45.75,87.78,10.0,40,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,It,32.57,Failing,0
+405,Quintina,Sokale,Female,3,22,47,50,50,54,83,1,1,1,1,59.25,87.78,26.11,69,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,15.95,Passing,0
+406,Betteann,Lodwick,Female,4,0,19,50,50,50,50,1,1,1,1,50.0,100.0,10.56,19,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Math,Math,0.0,Passing,0
+407,Geraldine,Gidley,Female,4,12,22,50,67,87,50,1,1,1,1,63.5,93.33,12.22,34,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,17.6,Needs Improvement,0
+408,Frasier,Gingles,Male,5,9,15,53,50,83,69,1,1,1,1,63.75,95.0,8.33,24,Acceptable,Pass,Concerning,Elementary (1-5),0,0,0,English,Science,15.31,Needs Improvement,0
+409,Timothea,Shearstone,Female,1,1,43,50,50,71,98,1,1,1,1,67.25,99.44,23.89,44,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,22.77,Needs Improvement,0
+410,Paddie,Warnock,Male,12,16,46,16,66,78,96,0,1,1,1,64.0,91.11,25.56,62,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Math,34.29,Needs Improvement,0
+411,Wallis,Forst,Male,7,26,39,19,47,31,65,0,0,0,1,40.5,85.56,21.67,65,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,It,Math,19.96,Failing,0
+412,Janith,Bowsher,Female,12,29,44,29,71,6,22,0,1,0,0,32.0,83.89,24.44,73,Excessive Absence,Fail,Exessive,High (9-12),1,1,3,Science,English,27.72,Failing,0
+413,Reinold,McPolin,Male,10,8,41,36,7,76,63,0,0,1,1,45.5,95.56,22.78,49,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,2,English,Science,30.6,Failing,0
+414,Lothario,O'Neal,Male,8,15,44,34,5,90,5,0,0,1,0,33.5,91.67,24.44,59,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,English,Science,40.07,Failing,0
+415,Dagny,Laughlin,Male,2,10,35,50,81,89,50,1,1,1,1,67.5,94.44,19.44,45,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,20.47,Needs Improvement,0
+416,Boy,Tomek,Male,7,10,21,66,72,17,39,1,1,0,0,48.5,94.44,11.67,31,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,Science,English,25.44,Failing,0
+417,Thatcher,Mattosoff,Male,1,1,34,50,89,99,50,1,1,1,1,72.0,99.44,18.89,35,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,25.73,Satisfactory,0
+418,Peri,Towsie,Female,2,3,16,69,91,85,92,1,1,1,1,84.25,98.33,8.89,19,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,10.63,Good,0
+419,Reina,Mattingley,Female,2,20,49,55,68,50,52,1,1,1,1,56.25,88.89,27.22,69,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,8.1,Passing,0
+420,Dominick,Fidgin,Male,11,11,35,73,18,36,80,1,0,0,1,51.75,93.89,19.44,46,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,It,Science,29.65,Passing,0
+421,Uta,Dyton,Female,4,29,3,50,69,96,93,1,1,1,1,77.0,83.89,1.67,32,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,21.68,Satisfactory,0
+422,Lanae,Rangall,Female,12,20,47,58,97,27,60,1,1,0,1,60.5,88.89,26.11,67,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Science,English,28.64,Needs Improvement,0
+423,Dix,Axon,Female,7,0,39,74,50,62,47,1,1,1,0,58.25,100.0,21.67,39,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,1,Math,It,12.34,Passing,0
+424,Garry,Phythian,Male,7,14,2,11,29,39,10,0,0,0,0,22.25,92.22,1.11,16,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,4,English,It,14.17,Failing,0
+425,Nataniel,Bollon,Male,1,6,38,65,66,58,97,1,1,1,1,71.5,96.67,21.11,44,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,English,17.37,Satisfactory,0
+426,Lilias,Emor,Female,6,26,39,87,50,50,50,1,1,1,1,59.25,85.56,21.67,65,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,Science,18.5,Passing,0
+427,Abdul,Dudden,Male,9,25,50,88,96,37,94,1,1,0,1,78.75,86.11,27.78,75,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Science,English,28.04,Satisfactory,0
+428,Hunt,Yedall,Male,6,29,29,72,86,68,50,1,1,1,1,69.0,83.89,16.11,58,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,It,14.83,Needs Improvement,0
+429,Cortney,Geistmann,Female,9,9,10,61,93,19,21,1,1,0,0,48.5,95.0,5.56,19,Acceptable,Fail,Moderate,High (9-12),0,0,2,Science,English,35.42,Failing,0
+430,Karilynn,Pudge,Female,12,28,37,89,80,65,0,1,1,1,0,58.5,84.44,20.56,65,Excessive Absence,Pass,Exessive,High (9-12),1,1,1,Math,It,40.24,Passing,0
+431,Lionel,Origin,Male,2,18,0,62,50,64,50,1,1,1,1,56.5,90.0,0.0,18,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,English,Science,7.55,Passing,0
+432,Bill,Fidal,Female,6,21,31,50,92,66,84,1,1,1,1,73.0,88.33,17.22,52,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,Math,18.8,Satisfactory,0
+433,Jannelle,Calcraft,Female,2,28,30,61,62,89,50,1,1,1,1,65.5,84.44,16.67,58,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,It,16.58,Needs Improvement,0
+434,Dory,Rickard,Male,11,25,19,51,56,89,42,1,1,1,0,59.5,86.11,10.56,44,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,It,20.5,Passing,0
+435,Ulysses,Praill,Male,9,6,23,70,26,22,11,1,0,0,0,32.25,96.67,12.78,29,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,3,Math,It,25.95,Failing,0
+436,Audi,Ferrini,Female,2,29,10,79,50,50,94,1,1,1,1,68.25,83.89,5.56,39,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,21.95,Needs Improvement,0
+437,Bevan,Daye,Male,3,10,36,97,50,68,50,1,1,1,1,66.25,94.44,20.0,46,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,22.19,Needs Improvement,0
+438,Vivianne,Heffron,Female,9,11,0,23,88,87,58,0,1,1,1,64.0,93.89,0.0,11,Excessive Absence,Pass,Moderate,High (9-12),0,1,1,Science,Math,30.67,Needs Improvement,0
+439,Juliet,D'Alwis,Female,8,18,49,46,26,75,62,0,0,1,1,52.25,90.0,27.22,67,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,English,Science,21.14,Passing,0
+440,Sidney,Tutton,Male,8,2,26,67,97,46,70,1,1,0,1,70.0,98.89,14.44,28,Excessive Tardiness,Pass,Concerning,Middle (6-8),0,1,1,Science,English,20.93,Satisfactory,0
+441,Vicky,Kershaw,Female,12,8,44,52,89,6,35,1,1,0,0,45.5,95.56,24.44,52,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,2,Science,English,34.67,Failing,0
+442,Bryn,Mougin,Male,5,7,49,50,50,50,50,1,1,1,1,50.0,96.11,27.22,56,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+443,Alysia,Ewell,Female,9,20,32,36,64,51,17,0,1,1,0,42.0,88.89,17.78,52,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Science,It,20.22,Failing,0
+444,Winifield,Semble,Male,4,28,8,62,67,91,50,1,1,1,1,67.5,84.44,4.44,36,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,It,17.21,Needs Improvement,0
+445,Olva,Brennen,Female,1,16,46,80,58,62,74,1,1,1,1,68.5,91.11,25.56,62,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,10.25,Needs Improvement,0
+446,Pauly,Reye,Male,5,19,22,97,50,78,50,1,1,1,1,68.75,89.44,12.22,41,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,23.0,Needs Improvement,0
+447,Hale,Gostyke,Male,3,2,2,50,74,50,50,1,1,1,1,56.0,98.89,1.11,4,Acceptable,Pass,Good,Elementary (1-5),0,0,0,Science,Math,12.0,Passing,0
+448,Pete,Hanshaw,Male,8,15,2,22,14,61,19,0,0,1,0,29.0,91.67,1.11,17,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,3,English,Science,21.59,Failing,0
+449,Hazlett,Penrith,Male,5,0,32,73,93,50,50,1,1,1,1,66.5,100.0,17.78,32,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,20.73,Needs Improvement,0
+450,Larina,Siward,Female,4,29,6,97,50,50,92,1,1,1,1,72.25,83.89,3.33,35,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,25.77,Satisfactory,0
+451,Luther,Tolland,Male,2,30,8,50,83,52,50,1,1,1,1,58.75,83.33,4.44,38,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,Science,Math,16.19,Passing,0
+452,Ariel,Covotto,Female,9,22,2,1,33,63,83,0,0,1,1,45.0,87.78,1.11,24,Excessive Absence,Fail,Concerning,High (9-12),0,1,2,It,Math,35.81,Failing,0
+453,Lana,Weatherdon,Female,2,25,31,50,50,100,50,1,1,1,1,62.5,86.11,17.22,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,25.0,Needs Improvement,0
+454,Myrtie,Cripin,Female,8,10,16,68,18,95,56,1,0,1,1,59.25,94.44,8.89,26,Tardiness and absence issues,Pass,Concerning,Middle (6-8),0,1,1,English,Science,31.97,Passing,0
+455,Gibbie,Silver,Male,1,2,48,50,60,93,64,1,1,1,1,66.75,98.89,26.67,50,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,18.46,Needs Improvement,0
+456,Dominga,Shelper,Female,3,15,33,71,83,61,50,1,1,1,1,66.25,91.67,18.33,48,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,14.08,Needs Improvement,0
+457,Marcie,Grishelyov,Female,9,25,36,50,91,66,55,1,1,1,1,65.5,86.11,20.0,61,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,Science,Math,18.27,Needs Improvement,0
+458,Chicky,Fitzpayn,Female,7,28,31,18,86,14,42,0,1,0,0,40.0,84.44,17.22,59,Excessive Absence,Fail,Exessive,Middle (6-8),1,1,3,Science,English,33.07,Failing,0
+459,Robinia,Ceeley,Female,12,16,20,25,83,10,54,0,1,0,1,43.0,91.11,11.11,36,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Science,English,32.32,Failing,0
+460,Ingaberg,Euplate,Female,10,28,37,16,7,31,34,0,0,0,0,22.0,84.44,20.56,65,Excessive Absence,Fail,Exessive,High (9-12),1,1,4,It,Science,12.73,Failing,0
+461,Fritz,Mowling,Male,2,17,4,65,94,50,50,1,1,1,1,64.75,90.56,2.22,21,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,English,20.74,Needs Improvement,0
+462,Robin,Lyness,Male,7,11,14,95,74,15,47,1,1,0,0,57.75,93.89,7.78,25,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,2,Math,English,34.62,Passing,0
+463,Phylis,Antoniak,Female,1,15,5,69,50,50,75,1,1,1,1,61.0,91.67,2.78,20,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,It,Science,12.94,Needs Improvement,0
+464,Emmett,Commuzzo,Male,6,8,26,98,66,57,88,1,1,1,1,77.25,95.56,14.44,34,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,Math,English,19.0,Satisfactory,0
+465,Sherline,Peaker,Female,1,8,11,70,95,59,70,1,1,1,1,73.5,95.56,6.11,19,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Science,English,15.24,Satisfactory,0
+466,Annelise,Codman,Female,12,20,9,86,34,22,14,1,0,0,0,39.0,88.89,5.0,29,Excessive Absence,Fail,Concerning,High (9-12),0,1,3,Math,It,32.39,Failing,0
+467,Aeriela,Dine-Hart,Female,4,11,50,96,50,54,50,1,1,1,1,62.5,93.89,27.78,61,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,22.41,Needs Improvement,0
+468,Redford,Mattingly,Male,11,20,50,70,53,27,22,1,1,0,0,43.0,88.89,27.78,70,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,It,22.55,Failing,0
+469,Fleming,Rotte,Male,5,4,17,91,50,50,50,1,1,1,1,60.25,97.78,9.44,21,Acceptable,Pass,Concerning,Elementary (1-5),0,0,0,Math,Science,20.5,Needs Improvement,0
+470,Araldo,Giacobillo,Male,1,18,5,50,50,100,57,1,1,1,1,64.25,90.0,2.78,23,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,24.06,Needs Improvement,0
+471,Esdras,Klossek,Male,2,25,40,50,89,93,94,1,1,1,1,81.5,86.11,22.22,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,21.11,Good,0
+472,Simonne,Pagett,Female,1,30,38,56,50,52,91,1,1,1,1,62.25,83.33,21.11,68,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,19.33,Needs Improvement,0
+473,Davy,Ballinghall,Male,12,2,13,58,26,89,42,1,0,1,0,53.75,98.89,7.22,15,Acceptable,Pass,Moderate,High (9-12),0,0,2,English,Science,26.89,Passing,0
+474,Shandeigh,Penman,Female,10,3,38,27,8,34,74,0,0,0,1,35.75,98.33,21.11,41,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Science,27.77,Failing,0
+475,Michaela,Bangs,Female,2,3,5,73,50,75,50,1,1,1,1,62.0,98.33,2.78,8,Acceptable,Pass,Good,Elementary (1-5),0,0,0,English,Science,13.88,Needs Improvement,0
+476,Bord,Wheal,Male,2,22,49,84,75,50,50,1,1,1,1,64.75,87.78,27.22,71,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,17.42,Needs Improvement,0
+477,Verene,Cosgriff,Female,8,24,32,4,18,32,91,0,0,0,1,36.25,86.67,17.78,56,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,It,Math,38.25,Failing,0
+478,Samaria,Beggs,Female,10,12,28,6,22,8,72,0,0,0,1,27.0,93.33,15.56,40,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Math,30.83,Failing,0
+479,Cleo,Durtnel,Female,1,23,42,50,72,55,50,1,1,1,1,56.75,87.22,23.33,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,10.44,Passing,0
+480,Pavia,Lasseter,Female,2,19,49,84,50,92,62,1,1,1,1,72.0,89.44,27.22,68,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,19.39,Satisfactory,0
+481,Vasilis,Braithwait,Male,9,28,3,77,26,100,94,1,0,1,1,74.25,84.44,1.67,31,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,Science,33.61,Satisfactory,0
+482,Lucienne,Burkinshaw,Female,8,11,5,13,11,50,30,0,0,1,0,26.0,93.89,2.78,16,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,3,English,Science,18.13,Failing,0
+483,Ebony,Skerrett,Female,1,29,2,100,93,97,97,1,1,1,1,96.75,83.89,1.11,31,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,2.87,Excellent,1
+484,Emera,Albany,Female,10,6,17,81,2,68,95,1,0,1,1,61.5,96.67,9.44,23,Acceptable,Pass,Concerning,High (9-12),0,0,1,It,Science,41.17,Needs Improvement,0
+485,Indira,Solland,Female,7,12,50,88,69,15,92,1,1,0,1,66.0,93.33,27.78,62,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,It,English,35.45,Needs Improvement,0
+486,Basilius,Toyer,Male,4,14,50,72,50,82,50,1,1,1,1,63.5,92.22,27.78,64,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,16.11,Needs Improvement,0
+487,Nicolais,Mudge,Male,9,28,19,34,77,25,51,0,1,0,1,46.75,84.44,10.56,47,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,Science,English,22.87,Failing,0
+488,Katlin,Haryngton,Female,12,28,29,74,82,35,93,1,1,0,1,71.0,84.44,16.11,57,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,English,25.23,Satisfactory,0
+489,Elsinore,Lissaman,Female,10,28,15,72,19,59,3,1,0,1,0,38.25,84.44,8.33,43,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,Math,It,32.57,Failing,0
+490,Thorstein,Bricksey,Male,11,30,18,8,7,20,92,0,0,0,1,31.75,83.33,10.0,48,Excessive Absence,Fail,Exessive,High (9-12),1,1,3,It,Science,40.6,Failing,0
+491,Lia,Egre,Female,2,24,28,100,50,59,99,1,1,1,1,77.0,86.67,15.56,52,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,26.24,Satisfactory,0
+492,Jackqueline,Charlo,Female,4,20,27,51,50,50,58,1,1,1,1,52.25,88.89,15.0,47,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,3.86,Passing,0
+493,Aliza,Zannutti,Female,12,22,47,33,64,93,12,0,1,1,0,50.5,87.78,26.11,69,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,It,35.48,Passing,0
+494,Horatius,Petkov,Male,2,23,35,55,75,85,84,1,1,1,1,74.75,87.22,19.44,58,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,13.91,Satisfactory,0
+495,Lezley,Garron,Male,10,8,43,45,25,9,12,0,0,0,0,22.75,95.56,23.89,51,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,4,Math,English,16.38,Failing,0
+496,Venus,Reisen,Female,10,10,11,49,63,71,77,0,1,1,1,65.0,94.44,6.11,21,Acceptable,Pass,Concerning,High (9-12),0,0,1,It,Math,12.11,Needs Improvement,0
+497,Marcelo,O'Callaghan,Male,8,7,3,83,53,98,26,1,1,1,0,65.0,96.11,1.67,10,Acceptable,Pass,Good,Middle (6-8),0,0,1,English,It,32.03,Needs Improvement,0
+498,Vivyanne,Flello,Female,1,23,46,69,76,100,50,1,1,1,1,73.75,87.22,25.56,69,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,It,20.66,Satisfactory,0
+499,Hussein,Dockreay,Male,12,6,0,46,46,59,83,0,0,1,1,58.5,96.67,0.0,6,Acceptable,Pass,Good,High (9-12),0,0,2,It,Math,17.45,Passing,0
+500,Sloan,Barkway,Male,12,9,28,14,33,96,43,0,0,1,0,46.5,95.0,15.56,37,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,English,Math,35.12,Failing,0
+501,Darbee,By,Male,11,19,39,90,97,21,66,1,1,0,1,68.5,89.44,21.67,58,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Science,English,34.34,Needs Improvement,0
+502,Ashien,Cowely,Female,3,30,5,50,50,50,90,1,1,1,1,60.0,83.33,2.78,35,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,20.0,Needs Improvement,0
+503,Kat,Dumphreys,Female,11,18,39,47,97,75,71,0,1,1,1,72.5,90.0,21.67,57,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Science,Math,20.49,Satisfactory,0
+504,Kelcy,Beeck,Female,3,15,37,50,65,100,50,1,1,1,1,66.25,91.67,20.56,52,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,23.58,Needs Improvement,0
+505,Benita,Samson,Female,2,15,39,50,50,50,50,1,1,1,1,50.0,91.67,21.67,54,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+506,Rolando,Mapledoram,Male,8,22,41,23,6,89,83,0,0,1,1,50.25,87.78,22.78,63,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,English,Science,41.93,Passing,0
+507,Ted,Routham,Male,8,8,19,88,48,92,58,1,0,1,1,71.5,95.56,10.56,27,Tardiness and absence issues,Pass,Concerning,Middle (6-8),0,1,1,English,Science,21.81,Satisfactory,0
+508,Vallie,Enders,Female,12,6,19,91,30,1,24,1,0,0,0,36.5,96.67,10.56,25,Acceptable,Fail,Concerning,High (9-12),0,0,3,Math,English,38.42,Failing,0
+509,Montague,Bates,Male,12,30,38,77,34,67,71,1,0,1,1,62.25,83.33,21.11,68,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,Science,19.28,Needs Improvement,0
+510,Farly,Bonnaire,Male,10,12,44,4,49,23,94,0,0,0,1,42.5,93.33,24.44,56,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Math,38.97,Failing,0
+511,Samuel,Fiddyment,Male,12,2,21,84,46,65,93,1,0,1,1,72.0,98.89,11.67,23,Excessive Tardiness,Pass,Concerning,High (9-12),0,1,1,It,Science,20.9,Satisfactory,0
+512,Georgine,Jakab,Female,5,3,13,50,75,66,50,1,1,1,1,60.25,98.33,7.22,16,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Science,Math,12.39,Needs Improvement,0
+513,Shae,Stebbing,Female,10,16,31,17,20,1,64,0,0,0,1,25.5,91.11,17.22,47,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,English,26.99,Failing,0
+514,Dolph,Loffel,Male,4,12,20,78,50,63,64,1,1,1,1,63.75,93.33,11.11,32,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,11.44,Needs Improvement,0
+515,Gabi,Phonix,Female,3,7,32,73,50,86,50,1,1,1,1,64.75,96.11,17.78,39,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,17.84,Needs Improvement,0
+516,Olag,Whiffen,Male,2,19,19,50,58,50,50,1,1,1,1,52.0,89.44,10.56,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,4.0,Passing,0
+517,Merrily,Gascoine,Female,5,25,28,50,50,96,50,1,1,1,1,61.5,86.11,15.56,53,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,23.0,Needs Improvement,0
+518,Matty,Cettell,Male,12,14,27,64,53,46,30,1,1,0,0,48.25,92.22,15.0,41,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,It,14.24,Failing,0
+519,Genevieve,Inchan,Female,12,20,31,92,95,84,26,1,1,1,0,74.25,88.89,17.22,51,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Science,It,32.5,Satisfactory,0
+520,Gale,Shiel,Female,11,10,15,16,52,60,5,0,1,1,0,33.25,94.44,8.33,25,Acceptable,Fail,Concerning,High (9-12),0,0,2,English,It,26.85,Failing,0
+521,Chas,Jimmes,Male,11,19,25,81,72,10,28,1,1,0,0,47.75,89.44,13.89,44,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,English,34.2,Failing,0
+522,Gerianna,Taplin,Female,11,5,32,19,44,30,37,0,0,0,0,32.5,97.22,17.78,37,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,4,Science,Math,10.66,Failing,0
+523,Libbey,Robertshaw,Female,1,18,15,50,50,50,50,1,1,1,1,50.0,90.0,8.33,33,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+524,Robinetta,Chiechio,Female,1,24,0,50,87,60,50,1,1,1,1,61.75,86.67,0.0,24,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,Math,17.48,Needs Improvement,0
+525,Lek,Cassin,Male,1,0,30,50,50,92,50,1,1,1,1,60.5,100.0,16.67,30,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,21.0,Needs Improvement,0
+526,Tirrell,Longwood,Male,3,28,14,81,50,50,63,1,1,1,1,61.0,84.44,7.78,42,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,14.67,Needs Improvement,0
+527,Cos,Blaydon,Male,1,18,19,59,50,69,82,1,1,1,1,65.0,90.0,10.56,37,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,13.74,Needs Improvement,0
+528,Hurleigh,Durdan,Male,1,26,44,57,50,73,50,1,1,1,1,57.5,85.56,24.44,70,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,10.85,Passing,0
+529,Donni,Kernar,Female,10,21,1,75,96,9,17,1,1,0,0,49.25,88.33,0.56,22,Excessive Absence,Fail,Concerning,High (9-12),0,1,2,Science,English,42.85,Failing,0
+530,Yoko,McNellis,Female,11,21,10,45,83,93,14,0,1,1,0,58.75,88.33,5.56,31,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,It,36.3,Passing,0
+531,Nobe,Giacopini,Male,6,12,21,50,50,50,50,1,1,1,1,50.0,93.33,11.67,33,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,Math,0.0,Passing,0
+532,Tremayne,Tetla,Male,11,11,19,72,46,68,40,1,0,1,0,56.5,93.89,10.56,30,Excessive Absence,Pass,Concerning,High (9-12),0,1,2,Math,It,15.86,Passing,0
+533,Lauren,Bruhn,Male,10,1,40,4,44,20,24,0,0,0,0,23.0,99.44,22.22,41,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,4,Science,Math,16.45,Failing,0
+534,Devondra,Leijs,Female,7,6,32,5,56,35,49,0,1,0,0,36.25,96.67,17.78,38,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,3,Science,Math,22.59,Failing,0
+535,Martie,Baudry,Female,2,0,6,50,50,53,50,1,1,1,1,50.75,100.0,3.33,6,Acceptable,Pass,Good,Elementary (1-5),0,0,0,English,Math,1.5,Passing,0
+536,Katharina,Delepine,Female,7,5,12,80,75,21,93,1,1,0,1,67.25,97.22,6.67,17,Acceptable,Pass,Moderate,Middle (6-8),0,0,1,It,English,31.75,Needs Improvement,0
+537,Martha,Tripp,Female,6,18,31,52,50,62,50,1,1,1,1,53.5,90.0,17.22,49,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,Science,5.74,Passing,0
+538,Angel,Rackham,Male,12,22,45,8,46,21,62,0,0,0,1,34.25,87.78,25.0,67,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Math,24.31,Failing,0
+539,Kelly,Barrasse,Female,11,1,6,11,61,9,5,0,1,0,0,21.5,99.44,3.33,7,Acceptable,Fail,Good,High (9-12),0,0,3,Science,It,26.45,Failing,0
+540,Shane,Powrie,Male,2,7,15,94,74,50,67,1,1,1,1,71.25,96.11,8.33,22,Acceptable,Pass,Concerning,Elementary (1-5),0,0,0,Math,English,18.21,Satisfactory,0
+541,Cyrille,Dran,Male,10,18,39,27,69,94,24,0,1,1,0,53.5,90.0,21.67,57,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,It,33.93,Passing,0
+542,Raffarty,Malletratt,Male,3,28,49,91,87,50,50,1,1,1,1,69.5,84.44,27.22,77,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,22.58,Needs Improvement,0
+543,Ernesto,Connaughton,Male,1,10,30,80,50,96,95,1,1,1,1,80.25,94.44,16.67,40,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,21.45,Good,0
+544,Dasi,Downs,Female,5,21,3,50,50,50,82,1,1,1,1,58.0,88.33,1.67,24,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,It,Math,16.0,Passing,0
+545,Jere,Sedman,Female,11,30,36,96,10,84,6,1,0,1,0,49.0,83.33,20.0,66,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,Math,It,47.62,Failing,0
+546,Rayner,Burgett,Male,3,24,48,50,76,53,68,1,1,1,1,61.75,86.67,26.67,72,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,12.34,Needs Improvement,0
+547,Yale,Cranidge,Male,10,28,34,84,33,50,17,1,0,1,0,46.0,84.44,18.89,62,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,Math,It,28.69,Failing,0
+548,Reinald,Warham,Male,10,23,31,88,52,100,62,1,1,1,1,75.5,87.22,17.22,54,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,English,Science,22.29,Satisfactory,0
+549,Imelda,Oakton,Female,4,9,33,50,50,86,94,1,1,1,1,70.0,95.0,18.33,42,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,23.32,Satisfactory,0
+550,Stanislaus,Mainston,Male,4,21,35,50,50,91,90,1,1,1,1,70.25,88.33,19.44,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,23.39,Satisfactory,0
+551,George,Ludlamme,Male,7,26,20,6,2,94,94,0,0,1,1,49.0,85.56,11.11,46,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,English,Science,51.99,Failing,0
+552,Adelice,Carnegy,Female,11,20,41,27,95,46,41,0,1,0,0,52.25,88.89,22.78,61,Excessive Absence,Pass,Exessive,High (9-12),0,1,3,Science,Math,29.61,Passing,0
+553,Chiarra,Stratiff,Female,11,29,23,51,71,87,36,1,1,1,0,61.25,83.89,12.78,52,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,It,22.37,Needs Improvement,0
+554,Filippa,Hoodlass,Female,12,21,4,16,76,79,45,0,1,1,0,54.0,88.33,2.22,25,Excessive Absence,Pass,Concerning,High (9-12),0,1,2,English,Math,29.63,Passing,0
+555,Neile,Skein,Female,4,2,29,50,50,98,50,1,1,1,1,62.0,98.89,16.11,31,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,24.0,Needs Improvement,0
+556,Grantham,Hawkin,Male,2,12,33,65,50,50,50,1,1,1,1,53.75,93.33,18.33,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,7.5,Passing,0
+557,Sibby,Laise,Female,6,22,47,75,51,50,62,1,1,1,1,59.5,87.78,26.11,69,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,English,11.68,Passing,0
+558,Lin,Leupold,Female,6,27,15,80,59,62,54,1,1,1,1,63.75,85.0,8.33,42,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,It,11.32,Needs Improvement,0
+559,Maynard,Dougherty,Male,6,29,3,53,50,80,83,1,1,1,1,66.5,83.89,1.67,32,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,Science,17.41,Needs Improvement,0
+560,Ruben,Baumler,Male,7,14,24,63,66,50,73,1,1,1,1,63.0,92.22,13.33,38,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,English,9.63,Needs Improvement,0
+561,Hewe,Helbeck,Male,7,13,24,56,90,41,39,1,1,0,0,56.5,92.78,13.33,37,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,Science,It,23.59,Passing,0
+562,Karissa,Halvosen,Female,4,24,27,50,83,89,97,1,1,1,1,79.75,86.67,15.0,51,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,20.65,Satisfactory,0
+563,Horton,Hover,Male,6,25,13,50,86,97,65,1,1,1,1,74.5,86.11,7.22,38,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,Math,21.05,Satisfactory,0
+564,Auria,Cardenoso,Female,7,16,39,80,57,79,77,1,1,1,1,73.25,91.11,21.67,55,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,Science,10.9,Satisfactory,0
+565,Latisha,McCowan,Female,11,30,27,82,68,76,90,1,1,1,1,79.0,83.33,15.0,57,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,It,Science,9.31,Satisfactory,0
+566,Fraser,Gavey,Male,12,27,0,62,87,38,54,1,1,0,1,60.25,85.0,0.0,27,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,Science,English,20.43,Needs Improvement,0
+567,Willie,Lodevick,Female,9,17,36,2,97,28,72,0,1,0,1,49.75,90.56,20.0,53,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Science,Math,42.74,Failing,0
+568,Massimo,Haversham,Male,4,15,6,50,50,52,50,1,1,1,1,50.5,91.67,3.33,21,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,1.0,Passing,0
+569,Sloan,Caldaro,Male,10,18,40,100,91,9,89,1,1,0,1,72.25,90.0,22.22,58,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,English,42.44,Satisfactory,0
+570,Vincenty,Atterley,Male,2,24,20,50,50,93,81,1,1,1,1,68.5,86.67,11.11,44,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,21.92,Needs Improvement,0
+571,Marisa,Gronou,Female,10,21,35,33,0,21,60,0,0,0,1,28.5,88.33,19.44,56,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Science,25.04,Failing,0
+572,Alexander,Haxley,Male,9,13,5,85,58,65,89,1,1,1,1,74.25,92.78,2.78,18,Excessive Absence,Pass,Moderate,High (9-12),0,1,0,It,Science,15.09,Satisfactory,0
+573,Salvidor,Shortall,Male,12,6,11,97,41,64,73,1,0,1,1,68.75,96.67,6.11,17,Acceptable,Pass,Moderate,High (9-12),0,0,1,Math,Science,23.16,Needs Improvement,0
+574,Leticia,Rumsby,Female,7,9,1,5,55,7,24,0,1,0,0,22.75,95.0,0.56,10,Acceptable,Fail,Good,Middle (6-8),0,0,3,Science,Math,23.13,Failing,0
+575,Dalis,McGlew,Male,8,1,47,78,76,9,18,1,1,0,0,45.25,99.44,26.11,48,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,Math,English,36.85,Failing,0
+576,Giuditta,Bumphries,Female,7,30,21,16,56,55,31,0,1,1,0,39.5,83.33,11.67,51,Excessive Absence,Fail,Exessive,Middle (6-8),1,1,2,Science,Math,19.47,Failing,0
+577,Isaac,Treen,Male,8,15,3,25,64,82,56,0,1,1,1,56.75,91.67,1.67,18,Excessive Absence,Pass,Moderate,Middle (6-8),0,1,1,English,Math,23.8,Passing,0
+578,Les,Daskiewicz,Male,9,29,29,62,91,45,13,1,1,0,0,52.75,83.89,16.11,58,Excessive Absence,Pass,Exessive,High (9-12),1,1,2,Science,It,32.6,Passing,0
+579,Jessi,Clementet,Female,12,2,15,70,21,3,66,1,0,0,1,40.0,98.89,8.33,17,Acceptable,Fail,Moderate,High (9-12),0,0,2,Math,English,33.2,Failing,0
+580,Giulietta,Izsak,Female,4,0,48,50,89,50,74,1,1,1,1,65.75,100.0,26.67,48,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,19.19,Needs Improvement,0
+581,Thatch,McTerlagh,Male,12,0,45,86,79,78,9,1,1,1,0,63.0,100.0,25.0,45,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Math,It,36.18,Needs Improvement,0
+582,Willyt,Heibel,Female,2,16,28,92,94,90,50,1,1,1,1,81.5,91.11,15.56,44,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,21.06,Good,0
+583,Mickie,Dilliston,Male,1,7,30,98,50,50,95,1,1,1,1,73.25,96.11,16.67,37,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,26.87,Satisfactory,0
+584,Jamie,Hutcheson,Male,11,17,7,39,79,18,55,0,1,0,1,47.75,90.56,3.89,24,Excessive Absence,Fail,Concerning,High (9-12),0,1,2,Science,English,25.76,Failing,0
+585,Hayyim,Arkin,Male,1,26,30,93,97,74,58,1,1,1,1,80.5,85.56,16.67,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,18.05,Good,0
+586,Fidela,Teasdale-Markie,Female,9,13,38,57,29,56,58,1,0,1,1,50.0,92.78,21.11,51,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Science,14.02,Passing,0
+587,Ediva,Jerson,Female,8,17,21,29,68,58,46,0,1,1,0,50.25,90.56,11.67,38,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,Science,Math,16.78,Passing,0
+588,Otis,Bleue,Male,12,9,2,13,5,42,42,0,0,0,0,25.5,95.0,1.11,11,Acceptable,Fail,Moderate,High (9-12),0,0,4,English,Science,19.33,Failing,0
+589,Mart,Wolverson,Male,12,3,14,73,0,45,82,1,0,0,1,50.0,98.33,7.78,17,Acceptable,Pass,Moderate,High (9-12),0,0,2,It,Science,36.87,Passing,0
+590,Ketty,Hakonsen,Female,8,8,14,25,44,89,30,0,0,1,0,47.0,95.56,7.78,22,Acceptable,Fail,Concerning,Middle (6-8),0,0,3,English,Math,29.13,Failing,0
+591,Shelly,Adamkiewicz,Female,9,2,40,85,98,82,29,1,1,1,0,73.5,98.89,22.22,42,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Science,It,30.47,Satisfactory,0
+592,Melli,Caroli,Female,11,14,38,100,1,39,21,1,0,0,0,40.25,92.22,21.11,52,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,Science,42.75,Failing,0
+593,Trevor,Werndly,Male,8,14,6,5,79,61,52,0,1,1,1,49.25,92.22,3.33,20,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,1,Science,Math,31.56,Failing,0
+594,Zollie,Fonte,Male,10,17,40,92,40,80,87,1,0,1,1,74.75,90.56,22.22,57,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,Science,23.68,Satisfactory,0
+595,Steven,Bartoszinski,Male,6,16,15,50,50,68,57,1,1,1,1,56.25,91.11,8.33,31,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,Math,8.5,Passing,0
+596,Albie,Grzegorzewicz,Male,2,24,48,57,50,58,50,1,1,1,1,53.75,86.67,26.67,72,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,4.35,Passing,0
+597,Wilbert,Tombs,Male,10,19,43,46,16,14,40,0,0,0,0,29.0,89.44,23.89,62,Excessive Absence,Fail,Exessive,High (9-12),0,1,4,Math,English,16.37,Failing,0
+598,Marrilee,Whewell,Female,4,20,2,50,50,50,50,1,1,1,1,50.0,88.89,1.11,22,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+599,Porter,Chazerand,Male,2,0,10,50,50,50,50,1,1,1,1,50.0,100.0,5.56,10,Acceptable,Pass,Good,Elementary (1-5),0,0,0,Math,Math,0.0,Passing,0
+600,Redford,Herreran,Male,5,14,41,98,50,56,50,1,1,1,1,63.5,92.22,22.78,55,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,23.17,Needs Improvement,0
+601,Nolie,Aucott,Female,8,21,41,24,79,52,41,0,1,1,0,49.0,88.33,22.78,62,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,Science,Math,23.08,Failing,0
+602,Dean,Playfoot,Male,10,2,17,65,95,72,86,1,1,1,1,79.5,98.89,9.44,19,Acceptable,Pass,Moderate,High (9-12),0,0,0,Science,Math,13.53,Satisfactory,0
+603,Domini,Morphew,Female,7,24,31,74,77,78,82,1,1,1,1,77.75,86.67,17.22,55,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,Math,3.3,Satisfactory,0
+604,Daryl,Ochterlonie,Male,11,1,40,26,66,56,74,0,1,1,1,55.5,99.44,22.22,41,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,It,Math,21.0,Passing,0
+605,Free,Kennifick,Male,5,3,7,50,50,50,81,1,1,1,1,57.75,98.33,3.89,10,Acceptable,Pass,Good,Elementary (1-5),0,0,0,It,Math,15.5,Passing,0
+606,Hilario,Steane,Male,6,23,47,57,87,100,84,1,1,1,1,82.0,87.22,26.11,70,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,Math,18.06,Good,0
+607,Lavinie,Brunone,Female,12,1,44,52,35,40,14,1,0,0,0,35.25,99.44,24.44,45,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,It,15.86,Failing,0
+608,Boone,Ginni,Male,10,25,20,96,84,27,59,1,1,0,1,66.5,86.11,11.11,45,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,English,30.51,Needs Improvement,0
+609,Reilly,Cuttell,Male,4,22,14,90,50,68,50,1,1,1,1,64.5,87.78,7.78,36,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,19.0,Needs Improvement,0
+610,Neill,Folley,Male,7,26,22,28,26,95,19,0,0,1,0,42.0,85.56,12.22,48,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,English,It,35.54,Failing,0
+611,Westleigh,Gisbourn,Male,5,23,12,56,77,50,50,1,1,1,1,58.25,87.22,6.67,35,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,12.82,Passing,0
+612,Laurianne,Gypson,Female,9,21,4,48,97,53,78,0,1,1,1,69.0,88.33,2.22,25,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,Science,Math,22.82,Needs Improvement,0
+613,Sawyere,McGrane,Male,1,19,49,50,77,50,100,1,1,1,1,69.25,89.44,27.22,68,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,24.13,Needs Improvement,0
+614,Neale,Elward,Male,2,11,9,50,80,78,98,1,1,1,1,76.5,93.89,5.0,20,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,It,Math,19.82,Satisfactory,0
+615,Freeman,Lapthorn,Male,12,28,20,62,35,9,29,1,0,0,0,33.75,84.44,11.11,48,Excessive Absence,Fail,Exessive,High (9-12),1,1,3,Math,English,21.87,Failing,0
+616,Kissee,Dongate,Female,3,3,6,50,68,50,50,1,1,1,1,54.5,98.33,3.33,9,Acceptable,Pass,Good,Elementary (1-5),0,0,0,Science,Math,9.0,Passing,0
+617,Glenna,Juara,Female,12,10,10,66,58,69,51,1,1,1,1,61.0,94.44,5.56,20,Acceptable,Pass,Moderate,High (9-12),0,0,0,English,It,8.12,Needs Improvement,0
+618,Grata,Uden,Female,6,28,9,80,87,66,50,1,1,1,1,70.75,84.44,5.0,37,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,It,16.36,Satisfactory,0
+619,Barthel,Durram,Male,10,17,20,20,58,45,18,0,1,0,0,35.25,90.56,11.11,37,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Science,It,19.52,Failing,0
+620,Boycey,Keepe,Male,3,22,6,50,97,50,94,1,1,1,1,72.75,87.78,3.33,28,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,Math,26.3,Satisfactory,0
+621,Carita,Grisley,Female,7,19,37,93,98,90,100,1,1,1,1,95.25,89.44,20.56,56,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,English,4.57,Excellent,1
+622,Jobie,Northidge,Female,12,23,41,13,20,61,60,0,0,1,1,38.5,87.22,22.78,64,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,English,Math,25.57,Failing,0
+623,Sheilakathryn,Pelosi,Female,5,5,50,61,50,52,57,1,1,1,1,55.0,97.22,27.78,55,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,4.97,Passing,0
+624,Larine,Keymer,Female,2,28,44,89,91,53,50,1,1,1,1,70.75,84.44,24.44,72,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,22.28,Satisfactory,0
+625,Eduino,Ivetts,Male,4,28,8,50,50,92,78,1,1,1,1,67.5,84.44,4.44,36,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,21.0,Needs Improvement,0
+626,Kahaleel,Shute,Male,11,29,37,37,63,75,100,0,1,1,1,68.75,83.89,20.56,66,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Math,26.18,Needs Improvement,0
+627,Blane,Veevers,Male,7,15,37,76,81,50,44,1,1,1,0,62.75,91.67,20.56,52,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Science,It,18.46,Needs Improvement,0
+628,Crysta,McAlpin,Female,12,1,2,20,73,15,86,0,1,0,1,48.5,99.44,1.11,3,Acceptable,Fail,Good,High (9-12),0,0,2,It,English,36.24,Failing,0
+629,Jamesy,Tabard,Male,8,14,40,81,0,58,44,1,0,1,0,45.75,92.22,22.22,54,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,Math,Science,34.1,Failing,0
+630,Gun,O'Lunny,Male,10,12,9,3,20,25,9,0,0,0,0,14.25,93.33,5.0,21,Excessive Absence,Fail,Concerning,High (9-12),0,1,4,English,Math,10.05,Failing,0
+631,Leandra,Goldstein,Female,6,28,39,53,50,65,69,1,1,1,1,59.25,84.44,21.67,67,Excessive Absence,Pass,Exessive,Middle (6-8),1,1,0,It,Science,9.18,Passing,0
+632,Tyne,Meenan,Female,3,11,50,50,89,50,50,1,1,1,1,59.75,93.89,27.78,61,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,19.5,Passing,0
+633,Rubie,O'Deegan,Female,4,19,3,86,50,76,78,1,1,1,1,72.5,89.44,1.67,22,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,Science,15.61,Satisfactory,0
+634,Towny,Nursey,Male,4,4,49,50,61,50,52,1,1,1,1,53.25,97.78,27.22,53,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,5.25,Passing,0
+635,Cherlyn,Nuzzi,Female,1,12,40,52,50,86,71,1,1,1,1,64.75,93.33,22.22,52,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,17.04,Needs Improvement,0
+636,Caron,Gibbieson,Female,10,28,24,77,21,62,85,1,0,1,1,61.25,84.44,13.33,52,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Science,28.48,Needs Improvement,0
+637,Gratia,Pixton,Female,1,8,12,50,50,50,50,1,1,1,1,50.0,95.56,6.67,20,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Math,Math,0.0,Passing,0
+638,Bernie,Filasov,Male,9,20,6,71,89,31,9,1,1,0,0,50.0,88.89,3.33,26,Excessive Absence,Pass,Concerning,High (9-12),0,1,2,Science,It,36.53,Passing,0
+639,Isabelle,Minall,Female,10,5,22,62,82,70,88,1,1,1,1,75.5,97.22,12.22,27,Excessive Tardiness,Pass,Concerning,High (9-12),0,1,0,It,Math,11.7,Satisfactory,0
+640,Shaylynn,Folini,Female,6,0,29,68,60,95,72,1,1,1,1,73.75,100.0,16.11,29,Excessive Tardiness,Pass,Concerning,Middle (6-8),0,1,0,English,Science,15.02,Satisfactory,0
+641,Larine,McCrachen,Female,3,28,50,50,89,50,50,1,1,1,1,59.75,84.44,27.78,78,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,Science,Math,19.5,Passing,0
+642,Chloris,Furney,Female,7,16,8,74,87,60,71,1,1,1,1,73.0,91.11,4.44,24,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Science,English,11.11,Satisfactory,0
+643,Lindy,Cleveley,Male,3,30,25,56,95,50,50,1,1,1,1,62.75,83.33,13.89,55,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,21.69,Needs Improvement,0
+644,Brianna,Garfitt,Female,7,28,11,8,69,30,42,0,1,0,0,37.25,84.44,6.11,39,Excessive Absence,Fail,Exessive,Middle (6-8),1,1,3,Science,Math,25.42,Failing,0
+645,Caprice,Ellerman,Female,8,17,24,100,8,86,65,1,0,1,1,64.75,90.56,13.33,41,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Math,Science,40.48,Needs Improvement,0
+646,Ann-marie,Mabb,Female,8,28,28,82,60,30,36,1,1,0,0,52.0,84.44,15.56,56,Excessive Absence,Pass,Exessive,Middle (6-8),1,1,2,Math,English,23.83,Passing,0
+647,Zaccaria,Mabbott,Male,6,14,37,63,67,83,59,1,1,1,1,68.0,92.22,20.56,51,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,It,10.52,Needs Improvement,0
+648,Erina,Beyn,Female,3,23,32,78,85,93,100,1,1,1,1,89.0,87.22,17.78,55,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,9.56,Good,0
+649,Lucinda,Foyster,Female,6,10,21,59,50,50,61,1,1,1,1,55.0,94.44,11.67,31,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,It,Science,5.83,Passing,0
+650,Winn,Carlson,Male,1,3,27,93,50,50,99,1,1,1,1,73.0,98.33,15.0,30,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,It,Science,26.67,Satisfactory,0
+651,Celestyna,Demelt,Female,5,24,44,66,69,89,72,1,1,1,1,74.0,86.67,24.44,68,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,10.3,Satisfactory,0
+652,Christabel,Osboldstone,Female,1,2,42,50,50,50,71,1,1,1,1,55.25,98.89,23.33,44,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,10.5,Passing,0
+653,Ginger,Boise,Female,1,19,37,87,50,72,50,1,1,1,1,64.75,89.44,20.56,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,18.1,Needs Improvement,0
+654,Judas,Ventum,Male,7,15,41,65,5,35,79,1,0,0,1,46.0,91.67,22.78,56,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,It,Science,32.92,Failing,0
+655,Brand,Gilliver,Male,3,25,41,50,50,50,50,1,1,1,1,50.0,86.11,22.78,66,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+656,Maryellen,Valek,Female,3,8,31,52,55,61,63,1,1,1,1,57.75,95.56,17.22,39,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,5.12,Passing,0
+657,Shae,Jordeson,Male,7,19,6,42,37,100,55,0,0,1,1,58.5,89.44,3.33,25,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,2,English,Science,28.69,Passing,0
+658,Brynne,Brands,Female,8,27,25,74,67,35,28,1,1,0,0,51.0,85.0,13.89,52,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,Math,It,22.88,Passing,0
+659,Adams,Stannis,Male,9,28,1,53,69,11,27,1,1,0,0,40.0,84.44,0.56,29,Excessive Absence,Fail,Concerning,High (9-12),1,1,2,Science,English,25.95,Failing,0
+660,Abbe,Merali,Female,5,23,31,50,60,50,50,1,1,1,1,52.5,87.22,17.22,54,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,5.0,Passing,0
+661,Zsazsa,Gheerhaert,Female,10,18,16,60,31,36,12,1,0,0,0,34.75,90.0,8.89,34,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,It,19.75,Failing,0
+662,Daren,Moro,Male,1,15,23,55,61,50,79,1,1,1,1,61.25,91.67,12.78,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,12.66,Needs Improvement,0
+663,Taite,Nafzger,Male,9,29,45,60,71,46,16,1,1,0,0,48.25,83.89,25.0,74,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,Science,It,23.81,Failing,0
+664,Tammie,Hovy,Male,12,30,14,5,31,79,100,0,0,1,1,53.75,83.33,7.78,44,Excessive Absence,Pass,Exessive,High (9-12),1,1,2,It,Math,43.48,Passing,0
+665,Laurence,Mather,Male,10,27,33,81,69,58,33,1,1,1,0,60.25,85.0,18.33,60,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,It,20.45,Needs Improvement,0
+666,Anselm,Charter,Male,4,21,21,67,50,50,72,1,1,1,1,59.75,88.33,11.67,42,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,11.44,Passing,0
+667,Winston,McCrachen,Male,11,24,26,69,82,14,5,1,1,0,0,42.5,86.67,14.44,50,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Science,It,38.65,Failing,0
+668,Ford,Bisgrove,Male,6,10,4,59,50,60,55,1,1,1,1,56.0,94.44,2.22,14,Acceptable,Pass,Moderate,Middle (6-8),0,0,0,English,Science,4.55,Passing,0
+669,Tonia,Trodden,Female,3,28,6,50,88,50,50,1,1,1,1,59.5,84.44,3.33,34,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,Science,Math,19.0,Passing,0
+670,Sharyl,Talmadge,Female,6,2,48,76,53,90,95,1,1,1,1,78.5,98.89,26.67,50,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,It,Science,18.81,Satisfactory,0
+671,Turner,Peris,Male,10,22,49,68,26,7,20,1,0,0,0,30.25,87.78,27.22,71,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,English,26.39,Failing,0
+672,Starlin,Durdan,Female,4,30,2,50,50,50,94,1,1,1,1,61.0,83.33,1.11,32,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,22.0,Needs Improvement,0
+673,Kristien,Beazey,Female,10,26,22,51,51,14,27,1,1,0,0,35.75,85.56,12.22,48,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,English,18.39,Failing,0
+674,Leigh,Hawkwood,Male,5,0,31,50,84,97,50,1,1,1,1,70.25,100.0,17.22,31,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,23.98,Satisfactory,0
+675,Ingar,Kettridge,Male,12,2,33,62,49,4,27,1,0,0,0,35.5,98.89,18.33,35,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,English,25.49,Failing,0
+676,Malinda,Senn,Female,1,2,21,50,50,50,50,1,1,1,1,50.0,98.89,11.67,23,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+677,Colleen,Anear,Female,11,11,21,34,39,45,31,0,0,0,0,37.25,93.89,11.67,32,Excessive Absence,Fail,Exessive,High (9-12),0,1,4,English,It,6.13,Failing,0
+678,Sigfried,Postgate,Male,9,14,49,64,0,15,71,1,0,0,1,37.5,92.22,27.22,63,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,It,Science,35.29,Failing,0
+679,Ree,Millican,Female,12,16,30,45,64,70,26,0,1,1,0,51.25,91.11,16.67,46,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,It,19.92,Passing,0
+680,Glenn,Jeffels,Female,1,27,32,50,51,94,95,1,1,1,1,72.5,85.0,17.78,59,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,25.41,Satisfactory,0
+681,Philippa,Beceril,Female,8,4,14,35,83,87,35,0,1,1,0,60.0,97.78,7.78,18,Acceptable,Pass,Moderate,Middle (6-8),0,0,2,English,Math,28.91,Needs Improvement,0
+682,Yard,Merriday,Male,11,3,29,76,65,64,28,1,1,1,0,58.25,98.33,16.11,32,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Math,It,20.89,Passing,0
+683,Corena,Benedikt,Female,6,18,18,79,68,97,100,1,1,1,1,86.0,90.0,10.0,36,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,Science,15.17,Good,0
+684,Jonie,Addington,Female,9,4,4,84,40,77,79,1,0,1,1,70.0,97.78,2.22,8,Acceptable,Pass,Good,High (9-12),0,0,1,Math,Science,20.22,Satisfactory,0
+685,Allen,D'Agostini,Male,11,0,50,14,49,15,60,0,0,0,1,34.5,100.0,27.78,50,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Math,23.53,Failing,0
+686,Elset,Maulkin,Female,4,27,21,50,90,50,50,1,1,1,1,60.0,85.0,11.67,48,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,20.0,Needs Improvement,0
+687,Emilie,Crossingham,Female,4,21,39,50,55,50,50,1,1,1,1,51.25,88.33,21.67,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,2.5,Passing,0
+688,Gerrard,Drohun,Male,12,28,30,19,36,88,73,0,0,1,1,54.0,84.44,16.67,58,Excessive Absence,Pass,Exessive,High (9-12),1,1,2,English,Math,31.97,Passing,0
+689,Tallie,McMurraya,Female,10,3,22,15,67,93,40,0,1,1,0,53.75,98.33,12.22,25,Excessive Tardiness,Pass,Concerning,High (9-12),0,1,2,English,Math,33.7,Passing,0
+690,Maurine,Bew,Female,1,4,36,50,85,76,50,1,1,1,1,65.25,97.78,20.0,40,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,17.99,Needs Improvement,0
+691,Izak,Alliberton,Male,6,20,4,50,89,54,88,1,1,1,1,70.25,88.89,2.22,24,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Science,Math,21.14,Satisfactory,0
+692,Codie,Gidman,Male,1,4,32,84,50,61,50,1,1,1,1,61.25,97.78,17.78,36,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,16.03,Needs Improvement,0
+693,Micki,Hentzeler,Female,6,25,35,98,71,50,50,1,1,1,1,67.25,86.11,19.44,60,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,English,22.77,Needs Improvement,0
+694,Jere,Klementz,Male,3,14,41,50,62,55,60,1,1,1,1,56.75,92.22,22.78,55,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,5.38,Passing,0
+695,Marshall,Callard,Male,5,25,2,51,50,87,50,1,1,1,1,59.5,86.11,1.11,27,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Science,18.34,Passing,0
+696,Theo,Westcar,Male,9,29,23,91,84,77,20,1,1,1,0,68.0,83.89,12.78,52,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,It,32.51,Needs Improvement,0
+697,Jewell,O'Teague,Female,11,29,13,46,32,8,40,0,0,0,0,31.5,83.89,7.22,42,Excessive Absence,Fail,Exessive,High (9-12),1,1,4,Math,English,16.68,Failing,0
+698,Trent,Goudie,Male,11,7,14,95,81,0,33,1,1,0,0,52.25,96.11,7.78,21,Acceptable,Pass,Concerning,High (9-12),0,0,2,Math,English,43.8,Passing,0
+699,Harv,Harbage,Male,5,18,47,50,50,50,50,1,1,1,1,50.0,90.0,26.11,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+700,Salaidh,Laydel,Female,8,25,34,96,94,71,61,1,1,1,1,80.5,86.11,18.89,59,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,It,17.25,Good,0
+701,Ethyl,McInnery,Female,9,25,11,80,70,97,78,1,1,1,1,81.25,86.11,6.11,36,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,English,Science,11.35,Good,0
+702,Kelby,Burleigh,Male,10,23,13,63,6,50,94,1,0,1,1,53.25,87.22,7.22,36,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Science,36.51,Passing,0
+703,Winfred,Yglesia,Male,4,12,46,50,99,50,50,1,1,1,1,62.25,93.33,25.56,58,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,24.5,Needs Improvement,0
+704,Austine,Copins,Female,4,21,22,50,66,82,50,1,1,1,1,62.0,88.33,12.22,43,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,15.32,Needs Improvement,0
+705,Rochette,Tomkiss,Female,8,27,17,30,5,43,75,0,0,0,1,38.25,85.0,9.44,44,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,It,Science,29.14,Failing,0
+706,Moria,Pietroni,Female,11,24,8,19,41,63,82,0,0,1,1,51.25,86.67,4.44,32,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,It,Math,27.26,Passing,0
+707,Humfrid,Tomkies,Male,1,16,6,50,50,96,50,1,1,1,1,61.5,91.11,3.33,22,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,23.0,Needs Improvement,0
+708,Gisella,Dinsmore,Female,9,2,1,37,77,11,3,0,1,0,0,32.0,98.89,0.56,3,Acceptable,Fail,Good,High (9-12),0,0,3,Science,It,33.33,Failing,0
+709,Inesita,Revance,Female,3,7,4,50,61,50,67,1,1,1,1,57.0,96.11,2.22,11,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,8.45,Passing,0
+710,Christophorus,Izacenko,Male,9,11,28,54,60,72,38,1,1,1,0,56.0,93.89,15.56,39,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,It,14.14,Passing,0
+711,Filberte,Layne,Male,2,27,28,67,50,50,50,1,1,1,1,54.25,85.0,15.56,55,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,8.5,Passing,0
+712,Timothea,Merrison,Female,2,22,42,88,68,50,97,1,1,1,1,75.75,87.78,23.33,64,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,21.01,Satisfactory,0
+713,Glynn,Warren,Male,3,30,32,50,50,50,60,1,1,1,1,52.5,83.33,17.78,62,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,It,Math,5.0,Passing,0
+714,Mason,Gietz,Male,5,15,13,50,84,50,50,1,1,1,1,58.5,91.67,7.22,28,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,Math,17.0,Passing,0
+715,Manny,Pendrid,Male,11,24,5,63,83,87,48,1,1,1,0,70.25,86.67,2.78,29,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,English,It,18.17,Satisfactory,0
+716,Noby,Stoffel,Male,2,8,32,60,50,72,50,1,1,1,1,58.0,95.56,17.78,40,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,10.46,Passing,0
+717,Cesya,Babon,Female,4,10,30,76,66,50,93,1,1,1,1,71.25,94.44,16.67,40,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,English,18.03,Satisfactory,0
+718,Burnard,Abilowitz,Male,4,13,11,50,50,50,94,1,1,1,1,61.0,92.78,6.11,24,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,It,Math,22.0,Needs Improvement,0
+719,Willem,Jozwik,Male,12,7,23,11,50,15,26,0,1,0,0,25.5,96.11,12.78,30,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,3,Science,Math,17.52,Failing,0
+720,Burr,Cornils,Male,5,29,36,50,71,74,50,1,1,1,1,61.25,83.89,20.0,65,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,13.05,Needs Improvement,0
+721,Boyd,Hrinishin,Male,3,4,3,63,50,50,96,1,1,1,1,64.75,97.78,1.67,7,Acceptable,Pass,Good,Elementary (1-5),0,0,0,It,Science,21.72,Needs Improvement,0
+722,Marlyn,Sheehan,Female,1,23,40,50,99,87,86,1,1,1,1,80.5,87.22,22.22,63,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,21.17,Good,0
+723,Virgilio,Whitwham,Male,6,29,29,50,50,82,50,1,1,1,1,58.0,83.89,16.11,58,Excessive Absence,Pass,Exessive,Middle (6-8),1,1,0,English,Math,16.0,Passing,0
+724,Faunie,Bunyard,Female,3,15,4,50,50,50,50,1,1,1,1,50.0,91.67,2.22,19,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+725,Ripley,Ummfrey,Male,3,15,6,61,92,50,50,1,1,1,1,63.25,91.67,3.33,21,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,English,19.86,Needs Improvement,0
+726,Bennett,Bestman,Male,2,23,4,50,50,50,51,1,1,1,1,50.25,87.22,2.22,27,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,It,Math,0.5,Passing,0
+727,Omar,Trench,Male,3,21,41,78,50,69,50,1,1,1,1,61.75,88.33,22.78,62,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,14.06,Needs Improvement,0
+728,Luke,Hovenden,Male,11,10,45,99,27,24,46,1,0,0,0,49.0,94.44,25.0,55,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Math,English,34.73,Failing,0
+729,Debra,Jerdon,Female,3,17,49,91,50,69,50,1,1,1,1,65.0,90.56,27.22,66,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,19.51,Needs Improvement,0
+730,Sinclair,Blaksley,Male,5,7,33,97,67,75,83,1,1,1,1,80.5,96.11,18.33,40,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,12.79,Good,0
+731,Georgeta,Bowich,Female,2,28,16,50,50,50,50,1,1,1,1,50.0,84.44,8.89,44,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,Math,Math,0.0,Passing,0
+732,North,McQuaide,Male,4,24,29,61,81,50,93,1,1,1,1,71.25,86.67,16.11,53,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,19.36,Satisfactory,0
+733,Maurice,Caldero,Male,4,18,44,50,50,68,50,1,1,1,1,54.5,90.0,24.44,62,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,9.0,Passing,0
+734,Olive,Tukesby,Female,6,29,24,100,85,83,50,1,1,1,1,79.5,83.89,13.33,53,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,It,21.08,Satisfactory,0
+735,Ivie,Loiterton,Female,5,29,17,69,93,71,50,1,1,1,1,70.75,83.89,9.44,46,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,17.59,Satisfactory,0
+736,Virginie,Corrie,Female,2,17,49,70,50,50,50,1,1,1,1,55.0,90.56,27.22,66,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,10.0,Passing,0
+737,Parker,McCart,Male,2,14,46,75,50,50,56,1,1,1,1,57.75,92.22,25.56,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,11.84,Passing,0
+738,Maryanna,Betteridge,Female,6,3,14,58,76,50,50,1,1,1,1,58.5,98.33,7.78,17,Acceptable,Pass,Moderate,Middle (6-8),0,0,0,Science,English,12.26,Passing,0
+739,Daffi,Palin,Female,8,10,38,29,86,0,94,0,1,0,1,52.25,94.44,21.11,48,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,2,It,English,45.29,Passing,0
+740,Ogden,Riddett,Male,11,6,5,29,99,22,81,0,1,0,1,57.75,96.67,2.78,11,Acceptable,Pass,Moderate,High (9-12),0,0,2,Science,English,38.06,Passing,0
+741,Amos,Esland,Male,3,21,25,50,50,50,86,1,1,1,1,59.0,88.33,13.89,46,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,18.0,Passing,0
+742,Gerrard,Paynter,Male,3,5,46,50,50,53,50,1,1,1,1,50.75,97.22,25.56,51,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,1.5,Passing,0
+743,Giffard,Galbraeth,Male,11,2,26,37,53,15,16,0,1,0,0,30.25,98.89,14.44,28,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,3,Science,English,18.25,Failing,0
+744,Jule,By,Male,9,2,25,6,88,52,94,0,1,1,1,60.0,98.89,13.89,27,Excessive Tardiness,Pass,Concerning,High (9-12),0,1,1,It,Math,40.5,Needs Improvement,0
+745,Angelica,Francesco,Female,4,7,9,51,50,54,50,1,1,1,1,51.25,96.11,5.0,16,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,English,Science,1.89,Passing,0
+746,Ginni,Birtchnell,Female,5,26,48,99,74,50,50,1,1,1,1,68.25,85.56,26.67,74,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,23.41,Needs Improvement,0
+747,Gwendolen,Twohig,Female,3,14,39,82,62,50,53,1,1,1,1,61.75,92.22,21.67,53,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,14.43,Needs Improvement,0
+748,Wit,McAlpine,Male,10,14,15,29,81,53,93,0,1,1,1,64.0,92.22,8.33,29,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,It,Math,28.73,Needs Improvement,0
+749,Goldie,Colliard,Female,8,16,47,33,23,2,95,0,0,0,1,38.25,91.11,26.11,63,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,It,English,39.98,Failing,0
+750,Paolina,Twinborne,Female,4,13,42,79,50,63,61,1,1,1,1,63.25,92.78,23.33,55,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,11.95,Needs Improvement,0
+751,Amory,Bellocht,Male,6,20,9,50,50,50,50,1,1,1,1,50.0,88.89,5.0,29,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Math,Math,0.0,Passing,0
+752,Rosa,Imloch,Female,5,17,9,50,50,50,50,1,1,1,1,50.0,90.56,5.0,26,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+753,Valera,Itzkovwich,Female,6,24,50,54,50,50,80,1,1,1,1,58.5,86.67,27.78,74,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,Science,14.46,Passing,0
+754,Alejoa,Scyone,Male,3,13,11,50,69,94,90,1,1,1,1,75.75,92.78,6.11,24,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,20.37,Satisfactory,0
+755,Vic,Drakers,Male,8,9,5,56,7,10,6,1,0,0,0,19.75,95.0,2.78,14,Acceptable,Fail,Moderate,Middle (6-8),0,0,3,Math,It,24.23,Failing,0
+756,Dedie,Broy,Female,12,8,31,79,41,65,55,1,0,1,1,60.0,95.56,17.22,39,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Math,Science,16.04,Needs Improvement,0
+757,Kiah,Terrey,Female,12,6,35,64,58,75,91,1,1,1,1,72.0,96.67,19.44,41,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,0,It,Science,14.49,Satisfactory,0
+758,Nicolea,Hare,Female,3,29,34,87,83,50,50,1,1,1,1,67.5,83.89,18.89,63,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,20.27,Needs Improvement,0
+759,Merralee,Gilmore,Female,2,22,19,50,50,87,86,1,1,1,1,68.25,87.78,10.56,41,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,21.08,Needs Improvement,0
+760,Daven,Tethacot,Male,12,15,14,64,59,68,56,1,1,1,1,61.75,91.67,7.78,29,Excessive Absence,Pass,Concerning,High (9-12),0,1,0,English,It,5.32,Needs Improvement,0
+761,Keir,Small,Male,8,28,40,65,17,7,81,1,0,0,1,42.5,84.44,22.22,68,Excessive Absence,Fail,Exessive,Middle (6-8),1,1,2,It,English,36.05,Failing,0
+762,Farleigh,Duffitt,Male,5,5,35,68,83,50,51,1,1,1,1,63.0,97.22,19.44,40,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,15.68,Needs Improvement,0
+763,Ferd,Coulston,Male,10,15,25,19,40,11,13,0,0,0,0,20.75,91.67,13.89,40,Excessive Absence,Fail,Exessive,High (9-12),0,1,4,Science,English,13.28,Failing,0
+764,Chevalier,Rushbrooke,Male,7,6,4,40,46,94,100,0,0,1,1,70.0,96.67,2.22,10,Acceptable,Pass,Good,Middle (6-8),0,0,2,It,Math,31.37,Satisfactory,0
+765,Peggie,Izod,Female,10,4,39,63,52,62,40,1,1,1,0,54.25,97.78,21.67,43,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Math,It,10.72,Passing,0
+766,Atlante,Swindells,Female,5,26,48,70,50,50,69,1,1,1,1,59.75,85.56,26.67,74,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,11.27,Passing,0
+767,Johny,Storres,Male,2,25,18,50,70,50,50,1,1,1,1,55.0,86.11,10.0,43,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,10.0,Passing,0
+768,Giacobo,Babidge,Male,3,29,46,50,98,63,57,1,1,1,1,67.0,83.89,25.56,75,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,21.34,Needs Improvement,0
+769,Pattie,Jakucewicz,Male,3,10,28,92,50,58,72,1,1,1,1,68.0,94.44,15.56,38,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,18.4,Needs Improvement,0
+770,Cy,Boyer,Male,9,27,7,1,69,21,22,0,1,0,0,28.25,85.0,3.89,34,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Science,Math,28.84,Failing,0
+771,Brewer,Salway,Male,8,9,19,59,31,22,71,1,0,0,1,45.75,95.0,10.56,28,Tardiness and absence issues,Fail,Concerning,Middle (6-8),0,1,2,It,English,23.06,Failing,0
+772,Timmy,Geraldez,Female,6,17,25,68,80,50,61,1,1,1,1,64.75,90.56,13.89,42,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,English,12.58,Needs Improvement,0
+773,Krystle,Reese,Female,9,21,43,7,11,80,91,0,0,1,1,47.25,88.33,23.89,64,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,It,Math,44.43,Failing,0
+774,Eleen,Spreckley,Female,2,26,14,72,50,74,72,1,1,1,1,67.0,85.56,7.78,40,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,11.37,Needs Improvement,0
+775,Clayton,Kilbride,Male,7,27,25,87,77,44,99,1,1,0,1,76.75,85.0,13.89,52,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,It,English,23.61,Satisfactory,0
+776,Gian,Cleator,Male,2,10,25,50,52,56,50,1,1,1,1,52.0,94.44,13.89,35,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,2.83,Passing,0
+777,Orin,Bufton,Male,3,17,20,86,74,59,89,1,1,1,1,77.0,90.56,11.11,37,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,13.64,Satisfactory,0
+778,Darb,Domegan,Male,8,24,2,93,95,9,77,1,1,0,1,68.5,86.67,1.11,26,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,1,Science,English,40.48,Needs Improvement,0
+779,Fredelia,Musselwhite,Female,5,22,34,50,67,50,52,1,1,1,1,54.75,87.78,18.89,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,8.22,Passing,0
+780,Kiele,Matheson,Female,5,21,50,92,50,94,76,1,1,1,1,78.0,88.33,27.78,71,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,20.33,Satisfactory,0
+781,Osbourne,Chomicki,Male,2,14,1,50,50,70,59,1,1,1,1,57.25,92.22,0.56,15,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,English,Math,9.5,Passing,0
+782,Dennis,Mees,Male,2,12,19,50,50,50,50,1,1,1,1,50.0,93.33,10.56,31,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+783,Drucie,Fulop,Female,5,15,40,71,67,50,83,1,1,1,1,67.75,91.67,22.22,55,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,13.65,Needs Improvement,0
+784,Lanita,Craddy,Female,5,7,38,50,77,100,50,1,1,1,1,69.25,96.11,21.11,45,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,24.13,Needs Improvement,0
+785,Pierrette,Macbane,Female,4,27,19,77,50,50,50,1,1,1,1,56.75,85.0,10.56,46,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,13.5,Passing,0
+786,Chandal,Borborough,Female,1,29,23,58,50,50,50,1,1,1,1,52.0,83.89,12.78,52,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,Math,Science,4.0,Passing,0
+787,Nealy,Curror,Male,4,21,27,65,50,50,50,1,1,1,1,53.75,88.33,15.0,48,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,7.5,Passing,0
+788,Aubine,Izzard,Female,6,29,3,50,71,65,76,1,1,1,1,65.5,83.89,1.67,32,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,It,Math,11.27,Needs Improvement,0
+789,Uriah,Izakov,Male,5,12,44,97,50,50,50,1,1,1,1,61.75,93.33,24.44,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,23.5,Needs Improvement,0
+790,Hogan,Dohmann,Male,8,16,25,34,90,28,58,0,1,0,1,52.5,91.11,13.89,41,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,Science,English,28.16,Passing,0
+791,Gerianna,Fotitt,Female,9,6,34,0,26,15,67,0,0,0,1,27.0,96.67,18.89,40,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Math,28.72,Failing,0
+792,Vincenty,Melbert,Male,4,14,12,68,50,95,50,1,1,1,1,65.75,92.22,6.67,26,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Science,21.27,Needs Improvement,0
+793,Leighton,Croose,Male,8,15,2,17,53,81,14,0,1,1,0,41.25,91.67,1.11,17,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,2,English,It,31.88,Failing,0
+794,Gordy,Gibbie,Male,12,15,13,9,48,45,82,0,0,0,1,46.0,91.67,7.22,28,Excessive Absence,Fail,Concerning,High (9-12),0,1,3,It,Math,29.83,Failing,0
+795,Francesco,Dalglish,Male,5,10,38,54,96,81,50,1,1,1,1,70.25,94.44,21.11,48,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,22.01,Satisfactory,0
+796,Rhetta,Campaigne,Female,11,11,49,81,1,4,55,1,0,0,1,35.25,93.89,27.22,60,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,Science,39.3,Failing,0
+797,Malena,Huke,Female,3,7,30,50,50,50,82,1,1,1,1,58.0,96.11,16.67,37,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,16.0,Passing,0
+798,Gawen,Skevington,Male,5,21,17,50,50,65,50,1,1,1,1,53.75,88.33,9.44,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,7.5,Passing,0
+799,Wanda,Arkin,Female,9,9,26,94,14,57,83,1,0,1,1,62.0,95.0,14.44,35,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Math,Science,35.56,Needs Improvement,0
+800,Juliann,Ineson,Female,11,9,41,15,72,87,96,0,1,1,1,67.5,95.0,22.78,50,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,It,Math,36.37,Needs Improvement,0
+801,Willdon,Leneve,Male,2,16,21,67,82,83,50,1,1,1,1,70.5,91.11,11.67,37,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,It,15.5,Satisfactory,0
+802,Abba,Stanex,Male,2,21,39,80,88,83,65,1,1,1,1,79.0,88.33,21.67,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,9.9,Satisfactory,0
+803,Nahum,Oliphant,Male,8,9,22,5,71,89,10,0,1,1,0,43.75,95.0,12.22,31,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,English,Math,42.55,Failing,0
+804,Oby,Geerling,Male,9,18,9,73,28,73,7,1,0,1,0,45.25,90.0,5.0,27,Excessive Absence,Fail,Concerning,High (9-12),0,1,2,Math,It,33.17,Failing,0
+805,Skippy,Bettlestone,Male,11,25,20,55,11,78,56,1,0,1,1,50.0,86.11,11.11,45,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,Science,28.08,Passing,0
+806,Kaitlyn,Abrahams,Female,1,19,25,50,50,83,96,1,1,1,1,69.75,89.44,13.89,44,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,23.41,Needs Improvement,0
+807,Hebert,Zarb,Male,7,14,3,36,26,59,32,0,0,1,0,38.25,92.22,1.67,17,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,3,English,Science,14.43,Failing,0
+808,Ediva,Smees,Female,4,17,14,93,50,50,50,1,1,1,1,60.75,90.56,7.78,31,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,21.5,Needs Improvement,0
+809,Yule,Oleshunin,Male,12,26,5,67,29,12,4,1,0,0,0,28.0,85.56,2.78,31,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,It,28.01,Failing,0
+810,Goldarina,Moizer,Female,8,17,33,67,1,48,71,1,0,0,1,46.75,90.56,18.33,50,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,It,Science,32.11,Failing,0
+811,Gwennie,Diament,Female,9,3,12,35,61,67,20,0,1,1,0,45.75,98.33,6.67,15,Acceptable,Fail,Moderate,High (9-12),0,0,2,English,It,22.08,Failing,0
+812,Natty,Ling,Female,9,21,9,47,26,49,2,0,0,0,0,31.0,88.33,5.0,30,Excessive Absence,Fail,Concerning,High (9-12),0,1,4,English,It,21.95,Failing,0
+813,Maybelle,Quinnell,Female,11,27,25,81,42,54,3,1,0,1,0,45.0,85.0,13.89,52,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,It,32.4,Failing,0
+814,Clemens,Rodrigo,Male,6,10,43,50,79,93,59,1,1,1,1,70.25,94.44,23.89,53,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,English,Math,19.41,Satisfactory,0
+815,Nissa,Oiller,Female,1,29,17,52,91,89,93,1,1,1,1,81.25,83.89,9.44,46,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,19.57,Good,0
+816,Terese,Drewett,Female,9,25,49,30,43,67,92,0,0,1,1,58.0,86.11,27.22,74,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,It,Math,27.36,Passing,0
+817,Sander,Edgcumbe,Male,8,28,28,98,66,17,74,1,1,0,1,63.75,84.44,15.56,56,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Math,English,34.0,Needs Improvement,0
+818,Aksel,Loukes,Male,7,10,5,39,47,77,23,0,0,1,0,46.5,94.44,2.78,15,Acceptable,Fail,Moderate,Middle (6-8),0,0,3,English,It,22.65,Failing,0
+819,Gill,Scutchin,Female,3,10,39,50,50,59,78,1,1,1,1,59.25,94.44,21.67,49,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,13.2,Passing,0
+820,Vincent,Klebes,Male,5,1,29,50,50,71,50,1,1,1,1,55.25,99.44,16.11,30,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,10.5,Passing,0
+821,Frazier,Aldam,Male,5,2,11,50,50,66,69,1,1,1,1,58.75,98.89,6.11,13,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,10.18,Passing,0
+822,Codee,Seaborne,Female,3,3,27,68,84,50,50,1,1,1,1,63.0,98.33,15.0,30,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Science,English,16.37,Needs Improvement,0
+823,Sunny,Hutchens,Female,3,11,45,72,50,62,50,1,1,1,1,58.5,93.89,25.0,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,10.63,Passing,0
+824,Philis,Glauber,Female,3,18,42,50,77,50,80,1,1,1,1,64.25,90.0,23.33,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,16.5,Needs Improvement,0
+825,Elizabeth,Dews,Female,8,1,21,99,78,37,78,1,1,0,1,73.0,99.44,11.67,22,Excessive Tardiness,Pass,Concerning,Middle (6-8),0,1,1,Math,English,25.96,Satisfactory,0
+826,Anabelle,Briscam,Female,10,17,14,40,0,7,77,0,0,0,1,31.0,90.56,7.78,31,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Science,35.28,Failing,0
+827,Dael,Di Giacomettino,Male,6,26,19,50,50,92,55,1,1,1,1,61.75,85.56,10.56,45,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,English,Math,20.3,Needs Improvement,0
+828,Kerri,Nevitt,Female,8,2,6,83,54,2,58,1,1,0,1,49.25,98.89,3.33,8,Acceptable,Fail,Good,Middle (6-8),0,0,1,Math,English,34.01,Failing,0
+829,Pamelina,Burness,Female,4,29,8,50,50,74,50,1,1,1,1,56.0,83.89,4.44,37,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,English,Math,12.0,Passing,0
+830,Trip,Lattey,Male,12,23,14,14,80,8,3,0,1,0,0,26.25,87.22,7.78,37,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Science,It,36.11,Failing,0
+831,Hank,McMylor,Male,8,4,23,75,11,26,83,1,0,0,1,48.75,97.78,12.78,27,Excessive Tardiness,Fail,Concerning,Middle (6-8),0,1,2,It,Science,35.61,Failing,0
+832,Andres,Hemshall,Male,3,10,44,59,50,83,50,1,1,1,1,60.5,94.44,24.44,54,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,15.59,Needs Improvement,0
+833,Bordie,Golsby,Male,4,25,43,50,53,50,50,1,1,1,1,50.75,86.11,23.89,68,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,1.5,Passing,0
+834,Hall,Gisborne,Male,1,3,23,50,50,50,99,1,1,1,1,62.25,98.33,12.78,26,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,It,Math,24.5,Needs Improvement,0
+835,Adelina,Swanston,Female,9,18,14,62,81,13,85,1,1,0,1,60.25,90.0,7.78,32,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,English,33.06,Needs Improvement,0
+836,Pietrek,Andriveaux,Male,12,25,39,18,3,74,85,0,0,1,1,45.0,86.11,21.67,64,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,It,Science,40.55,Failing,0
+837,Tristan,Romans,Male,5,28,7,67,71,86,50,1,1,1,1,68.5,84.44,3.89,35,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,It,14.8,Needs Improvement,0
+838,Reggi,McKenzie,Female,3,26,17,54,100,53,50,1,1,1,1,64.25,85.56,9.44,43,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,23.89,Needs Improvement,0
+839,Binni,McGeaney,Female,5,23,18,82,50,50,52,1,1,1,1,58.5,87.22,10.0,41,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,15.7,Passing,0
+840,Lorene,Towne,Female,9,20,29,75,11,72,99,1,0,1,1,64.25,88.89,16.11,49,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Science,37.5,Needs Improvement,0
+841,Bartholemy,Pechet,Male,3,21,17,75,65,50,100,1,1,1,1,72.5,88.33,9.44,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,21.02,Satisfactory,0
+842,Rinaldo,Moloney,Male,4,9,38,50,80,93,50,1,1,1,1,68.25,95.0,21.11,47,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,21.73,Needs Improvement,0
+843,Raviv,Gulliman,Male,11,22,10,17,8,40,69,0,0,0,1,33.5,87.78,5.56,32,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Science,27.23,Failing,0
+844,Martica,Alyukin,Female,2,23,8,57,71,50,50,1,1,1,1,57.0,87.22,4.44,31,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,9.9,Passing,0
+845,Arthur,Gregoli,Male,5,9,39,50,70,50,50,1,1,1,1,55.0,95.0,21.67,48,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,10.0,Passing,0
+846,Matty,Capaldi,Female,7,25,35,66,32,60,65,1,0,1,1,55.75,86.11,19.44,60,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Math,Science,16.05,Passing,0
+847,Don,Meek,Male,4,10,3,56,87,50,83,1,1,1,1,69.0,94.44,1.67,13,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Science,English,18.71,Needs Improvement,0
+848,Abie,Hayball,Male,3,21,8,57,92,84,50,1,1,1,1,70.75,88.33,4.44,29,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,It,20.39,Satisfactory,0
+849,Gail,Ciepluch,Male,10,29,32,31,98,61,100,0,1,1,1,72.5,83.89,17.78,61,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,Math,32.97,Satisfactory,0
+850,Jonie,Calbaithe,Female,7,24,15,12,17,4,63,0,0,0,1,24.0,86.67,8.33,39,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,It,English,26.55,Failing,0
+851,Kendra,Siddons,Female,8,5,45,14,62,95,17,0,1,1,0,47.0,97.22,25.0,50,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,English,Math,38.81,Failing,0
+852,Darsey,Storm,Female,12,5,49,8,88,60,85,0,1,1,1,60.25,97.22,27.22,54,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,1,Science,Math,37.03,Needs Improvement,0
+853,Nicolette,Helversen,Female,10,22,8,98,45,3,76,1,0,0,1,55.5,87.78,4.44,30,Excessive Absence,Pass,Concerning,High (9-12),0,1,2,Math,English,41.2,Passing,0
+854,Elspeth,Sturges,Female,12,0,38,18,73,74,7,0,1,1,0,43.0,100.0,21.11,38,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,2,English,It,35.51,Failing,0
+855,Fallon,Medwell,Female,6,9,45,52,65,50,50,1,1,1,1,54.25,95.0,25.0,54,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,Science,English,7.23,Passing,0
+856,Dorthea,Asals,Female,11,4,32,23,42,9,5,0,0,0,0,19.75,97.78,17.78,36,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,4,Science,It,16.72,Failing,0
+857,Annabella,Hempel,Female,4,1,2,83,72,76,73,1,1,1,1,76.0,99.44,1.11,3,Acceptable,Pass,Good,Elementary (1-5),0,0,0,Math,Science,4.97,Satisfactory,0
+858,Thane,Vischi,Male,4,13,25,50,50,71,50,1,1,1,1,55.25,92.78,13.89,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,10.5,Passing,0
+859,Holly-anne,Mawby,Female,9,30,8,32,13,20,98,0,0,0,1,40.75,83.33,4.44,38,Excessive Absence,Fail,Exessive,High (9-12),1,1,3,It,Science,38.96,Failing,0
+860,Jedidiah,Eskrick,Male,12,30,16,84,42,99,47,1,0,1,0,68.0,83.33,8.89,46,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,Science,27.89,Needs Improvement,0
+861,Durant,Maliphant,Male,7,2,48,100,46,85,54,1,0,1,1,71.25,98.89,26.67,50,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,1,Math,Science,25.5,Satisfactory,0
+862,Giustina,Hains,Female,1,17,8,50,50,61,50,1,1,1,1,52.75,90.56,4.44,25,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Math,5.5,Passing,0
+863,Kaspar,Blumsom,Male,6,13,11,50,50,82,93,1,1,1,1,68.75,92.78,6.11,24,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,It,Math,22.11,Needs Improvement,0
+864,Brade,Dowdall,Male,2,17,9,93,71,62,50,1,1,1,1,69.0,90.56,5.0,26,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Math,It,18.17,Needs Improvement,0
+865,Crysta,Geggie,Female,8,23,22,71,48,89,69,1,0,1,1,69.25,87.22,12.22,45,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,English,Science,16.78,Needs Improvement,0
+866,Frasier,Dinan,Male,11,21,20,63,76,48,84,1,1,0,1,67.75,88.33,11.11,41,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,It,English,15.76,Needs Improvement,0
+867,Justin,Ackeroyd,Male,9,19,1,99,41,26,85,1,0,0,1,62.75,89.44,0.56,20,Excessive Absence,Pass,Moderate,High (9-12),0,1,2,Math,English,34.8,Needs Improvement,0
+868,Chas,Densun,Male,6,28,27,50,50,50,50,1,1,1,1,50.0,84.44,15.0,55,Excessive Absence,Pass,Exessive,Middle (6-8),1,1,0,Math,Math,0.0,Passing,0
+869,Halette,Flatte,Female,6,4,45,66,50,82,50,1,1,1,1,62.0,97.78,25.0,49,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,English,Science,15.32,Needs Improvement,0
+870,Gina,Harmstone,Female,6,7,46,52,69,50,78,1,1,1,1,62.25,96.11,25.56,53,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,It,English,13.52,Needs Improvement,0
+871,Eloise,Tampion,Female,7,11,22,96,29,64,86,1,0,1,1,68.75,93.89,12.22,33,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Math,Science,29.68,Needs Improvement,0
+872,Stavro,Ebden,Male,6,17,31,74,85,50,50,1,1,1,1,64.75,90.56,17.22,48,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,English,17.61,Needs Improvement,0
+873,Zarah,Deniskevich,Female,8,8,22,13,56,3,62,0,1,0,1,33.5,95.56,12.22,30,Excessive Tardiness,Fail,Concerning,Middle (6-8),0,1,2,It,English,29.83,Failing,0
+874,Clementia,Newling,Female,5,21,43,60,75,59,92,1,1,1,1,71.5,88.33,23.89,64,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,English,15.5,Satisfactory,0
+875,Albert,Walworth,Male,8,29,48,94,88,44,67,1,1,0,1,73.25,83.89,26.67,77,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,Math,English,22.68,Satisfactory,0
+876,Cori,Kunert,Male,6,30,25,55,89,50,50,1,1,1,1,61.0,83.33,13.89,55,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,English,18.81,Needs Improvement,0
+877,Cyndie,Abramamovh,Female,7,30,35,46,3,75,54,0,0,1,1,44.5,83.33,19.44,65,Excessive Absence,Fail,Exessive,Middle (6-8),1,1,2,English,Science,30.25,Failing,0
+878,Pippy,Stowgill,Female,4,0,7,65,50,69,84,1,1,1,1,67.0,100.0,3.89,7,Acceptable,Pass,Good,Elementary (1-5),0,0,0,It,Science,13.98,Needs Improvement,0
+879,Tybie,Grassot,Female,5,4,37,50,61,50,65,1,1,1,1,56.5,97.78,20.56,41,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,7.68,Passing,0
+880,Melli,O'Gready,Female,2,30,36,53,50,61,50,1,1,1,1,53.5,83.33,20.0,66,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,English,Science,5.2,Passing,0
+881,Gonzales,de Lloyd,Male,4,22,9,67,98,50,72,1,1,1,1,71.75,87.78,5.0,31,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,19.87,Satisfactory,0
+882,Garner,Tyrwhitt,Male,1,23,50,50,50,96,50,1,1,1,1,61.5,87.22,27.78,73,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,23.0,Needs Improvement,0
+883,Eula,Piatti,Female,11,5,16,25,43,71,14,0,0,1,0,38.25,97.22,8.89,21,Acceptable,Fail,Concerning,High (9-12),0,0,3,English,It,24.89,Failing,0
+884,Mignonne,Gegg,Female,12,29,15,55,43,96,93,1,0,1,1,71.75,83.89,8.33,44,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,Science,26.75,Satisfactory,0
+885,Pete,Sterke,Male,3,29,31,57,81,64,53,1,1,1,1,63.75,83.89,17.22,60,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,It,12.37,Needs Improvement,0
+886,Robbie,Mee,Female,6,3,0,84,59,91,50,1,1,1,1,71.0,98.33,0.0,3,Acceptable,Pass,Good,Middle (6-8),0,0,0,English,It,19.61,Satisfactory,0
+887,Parnell,Jerzyk,Male,10,16,10,46,40,27,82,0,0,0,1,48.75,91.11,5.56,26,Excessive Absence,Fail,Concerning,High (9-12),0,1,3,It,English,23.54,Failing,0
+888,Annecorinne,Dowdam,Female,11,21,10,65,48,91,38,1,0,1,0,60.5,88.33,5.56,31,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,It,23.19,Needs Improvement,0
+889,Jake,Verni,Male,10,25,46,26,67,93,9,0,1,1,0,48.75,86.11,25.56,71,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,English,It,38.25,Failing,0
+890,Ethelred,Tomkin,Male,2,15,32,99,73,50,92,1,1,1,1,78.5,91.67,17.78,47,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,21.95,Satisfactory,0
+891,Bailey,Jiroutka,Male,11,24,36,97,65,50,70,1,1,1,1,70.5,86.67,20.0,60,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,Math,English,19.6,Satisfactory,0
+892,Jedediah,Congreve,Male,4,18,11,79,50,50,88,1,1,1,1,66.75,90.0,6.11,29,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,It,Science,19.69,Needs Improvement,0
+893,Hewett,Wonfor,Male,5,12,23,64,50,81,50,1,1,1,1,61.25,93.33,12.78,35,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,14.73,Needs Improvement,0
+894,Ofella,Altofts,Female,4,17,28,72,50,78,53,1,1,1,1,63.25,90.56,15.56,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,13.84,Needs Improvement,0
+895,Marcy,Salvadori,Female,4,23,23,50,50,99,50,1,1,1,1,62.25,87.22,12.78,46,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,24.5,Needs Improvement,0
+896,Keane,Aleixo,Male,4,15,17,50,82,86,51,1,1,1,1,67.25,91.67,9.44,32,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,19.41,Needs Improvement,0
+897,Dieter,Timeby,Male,8,0,38,4,79,5,54,0,1,0,1,35.5,100.0,21.11,38,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,Science,Math,37.22,Failing,0
+898,Addie,Cranfield,Male,7,11,1,98,4,33,30,1,0,0,0,41.25,93.89,0.56,12,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,3,Math,Science,40.01,Failing,0
+899,Tyler,Clow,Male,5,26,41,54,50,75,50,1,1,1,1,57.25,85.56,22.78,67,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Science,11.98,Passing,0
+900,Chick,Swinney,Male,1,21,18,66,87,96,50,1,1,1,1,74.75,88.33,10.0,39,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,It,20.74,Satisfactory,0
+901,Nealy,Orwin,Male,10,30,26,100,53,77,24,1,1,1,0,63.5,83.33,14.44,56,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,It,32.58,Needs Improvement,0
+902,Gerhard,Moulster,Male,9,11,4,18,47,25,34,0,0,0,0,31.0,93.89,2.22,15,Excessive Absence,Fail,Moderate,High (9-12),0,1,4,Science,Math,12.52,Failing,0
+903,Hi,Lowcock,Male,7,2,23,66,77,34,38,1,1,0,0,53.75,98.89,12.78,25,Excessive Tardiness,Pass,Concerning,Middle (6-8),0,1,2,Science,English,21.05,Passing,0
+904,Filippo,Duckerin,Male,9,3,3,16,53,81,37,0,1,1,0,46.75,98.33,1.67,6,Acceptable,Fail,Good,High (9-12),0,0,2,English,Math,27.4,Failing,0
+905,Farlay,De Biasio,Male,12,5,31,46,4,25,26,0,0,0,0,25.25,97.22,17.22,36,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,4,Math,Science,17.15,Failing,0
+906,Greg,Standring,Male,1,2,22,71,50,65,95,1,1,1,1,70.25,98.89,12.22,24,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,It,Science,18.71,Satisfactory,0
+907,Stevy,Sands-Allan,Male,10,6,11,62,99,79,12,1,1,1,0,63.0,96.67,6.11,17,Acceptable,Pass,Moderate,High (9-12),0,0,1,Science,It,37.21,Needs Improvement,0
+908,Gaby,Redd,Male,8,13,50,42,21,87,26,0,0,1,0,44.0,92.78,27.78,63,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,English,Science,30.03,Failing,0
+909,Moses,Lared,Male,12,23,33,4,80,85,69,0,1,1,1,59.5,87.22,18.33,56,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,Math,37.6,Passing,0
+910,Eva,Clail,Female,6,20,1,50,82,50,50,1,1,1,1,58.0,88.89,0.56,21,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Science,Math,16.0,Passing,0
+911,Filberto,Thomkins,Male,10,12,33,94,27,22,31,1,0,0,0,43.5,93.33,18.33,45,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,English,33.87,Failing,0
+912,Rollins,Durtnell,Male,8,8,15,91,89,86,6,1,1,1,0,68.0,95.56,8.33,23,Acceptable,Pass,Concerning,Middle (6-8),0,0,1,Math,It,41.38,Needs Improvement,0
+913,Jorrie,Ovitz,Female,11,14,39,49,30,97,79,0,0,1,1,63.75,92.22,21.67,53,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,Science,29.97,Needs Improvement,0
+914,Boycey,Domoney,Male,8,5,41,39,45,45,85,0,0,0,1,53.5,97.22,22.78,46,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,3,It,Math,21.19,Passing,0
+915,Erek,Plowes,Male,2,5,12,50,50,50,50,1,1,1,1,50.0,97.22,6.67,17,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Math,Math,0.0,Passing,0
+916,Giffard,Crossley,Male,12,13,36,93,33,14,36,1,0,0,0,44.0,92.78,20.0,49,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,English,34.09,Failing,0
+917,Lucias,Blazej,Male,9,14,31,74,57,66,29,1,1,1,0,56.5,92.22,17.22,45,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Math,It,19.6,Passing,0
+918,Sandro,Figiovanni,Male,10,6,5,21,38,11,37,0,0,0,0,26.75,96.67,2.78,11,Acceptable,Fail,Moderate,High (9-12),0,0,4,Science,English,13.07,Failing,0
+919,Willow,Mcimmie,Female,8,13,3,74,77,5,62,1,1,0,1,54.5,92.78,1.67,16,Excessive Absence,Pass,Moderate,Middle (6-8),0,1,1,Science,English,33.63,Passing,0
+920,Bel,Wille,Female,4,3,12,50,50,50,50,1,1,1,1,50.0,98.33,6.67,15,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Math,Math,0.0,Passing,0
+921,Ramona,Foyston,Female,12,10,0,71,67,18,9,1,1,0,0,41.25,94.44,0.0,10,Acceptable,Fail,Good,High (9-12),0,0,2,Math,It,32.29,Failing,0
+922,Ariel,Hayhurst,Female,1,8,23,96,50,50,65,1,1,1,1,65.25,95.56,12.78,31,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,21.69,Needs Improvement,0
+923,Danny,Grzegorecki,Male,8,7,23,1,47,48,26,0,0,0,0,30.5,96.11,12.78,30,Excessive Tardiness,Fail,Concerning,Middle (6-8),0,1,4,English,Math,22.13,Failing,0
+924,Sandye,Gives,Female,10,25,11,54,10,4,65,1,0,0,1,33.25,86.11,6.11,36,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,It,English,30.74,Failing,0
+925,Tabby,MacGregor,Female,6,6,24,94,53,50,50,1,1,1,1,61.75,96.67,13.33,30,Excessive Tardiness,Pass,Concerning,Middle (6-8),0,1,0,Math,English,21.55,Needs Improvement,0
+926,Gusti,Mennear,Female,7,30,8,21,49,41,20,0,0,0,0,32.75,83.33,4.44,38,Excessive Absence,Fail,Exessive,Middle (6-8),1,1,4,Science,It,14.52,Failing,0
+927,Julianna,Baptie,Female,4,29,15,50,50,50,50,1,1,1,1,50.0,83.89,8.33,44,Excessive Absence,Pass,Exessive,Elementary (1-5),1,1,0,Math,Math,0.0,Passing,0
+928,Raymond,Skoggings,Male,7,16,9,77,87,83,78,1,1,1,1,81.25,91.11,5.0,25,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Science,Math,4.65,Good,0
+929,Katey,MacVicar,Female,3,8,41,50,50,50,61,1,1,1,1,52.75,95.56,22.78,49,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,5.5,Passing,0
+930,Dagny,Monteaux,Male,10,0,0,60,23,18,57,1,0,0,1,39.5,100.0,0.0,0,Acceptable,Fail,Perfect,High (9-12),0,0,2,Math,English,22.07,Failing,0
+931,Lynnett,Haldin,Female,1,5,20,89,50,80,50,1,1,1,1,67.25,97.22,11.11,25,Acceptable,Pass,Concerning,Elementary (1-5),0,0,0,Math,Science,20.25,Needs Improvement,0
+932,Joy,Campey,Female,8,15,38,12,2,97,66,0,0,1,1,44.25,91.67,21.11,53,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,English,Science,45.02,Failing,0
+933,Barney,Binny,Male,9,3,29,39,72,29,12,0,1,0,0,38.0,98.33,16.11,32,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,Science,It,25.26,Failing,0
+934,Gwendolin,Emblow,Female,5,17,18,51,50,50,50,1,1,1,1,50.25,90.56,10.0,35,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,0.5,Passing,0
+935,Eugenius,Kibel,Male,12,23,44,44,21,84,59,0,0,1,1,52.0,87.22,24.44,67,Excessive Absence,Pass,Exessive,High (9-12),0,1,2,English,Science,26.44,Passing,0
+936,Alonzo,Barbie,Male,2,8,43,50,50,68,64,1,1,1,1,58.0,95.56,23.89,51,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,9.38,Passing,0
+937,Taddeusz,Barsby,Male,7,25,12,45,53,61,84,0,1,1,1,60.75,86.11,6.67,37,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,1,It,Math,16.82,Needs Improvement,0
+938,Lisle,Lorente,Male,6,7,49,65,50,50,50,1,1,1,1,53.75,96.11,27.22,56,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,Math,Science,7.5,Passing,0
+939,Gare,Josling,Male,10,20,50,58,89,74,59,1,1,1,1,70.0,88.89,27.78,70,Excessive Absence,Pass,Exessive,High (9-12),0,1,0,Science,Math,14.63,Satisfactory,0
+940,Ancell,Scottesmoor,Male,9,26,37,4,14,39,70,0,0,0,1,31.75,85.56,20.56,63,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Math,29.44,Failing,0
+941,Tildie,Simonds,Female,7,10,12,69,16,69,31,1,0,1,0,46.25,94.44,6.67,22,Acceptable,Fail,Concerning,Middle (6-8),0,0,2,Math,Science,26.97,Failing,0
+942,Umeko,Walesa,Female,10,15,8,13,76,60,90,0,1,1,1,59.75,91.67,4.44,23,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,It,Math,33.49,Passing,0
+943,Federico,Menghi,Male,7,25,0,93,15,8,81,1,0,0,1,49.25,86.11,0.0,25,Excessive Absence,Fail,Concerning,Middle (6-8),0,1,2,Math,English,43.96,Failing,0
+944,Pryce,Tegeller,Male,2,12,1,50,50,50,50,1,1,1,1,50.0,93.33,0.56,13,Excessive Absence,Pass,Moderate,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+945,Henriette,Fourmy,Female,7,20,15,89,27,26,94,1,0,0,1,59.0,88.89,8.33,35,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,2,It,English,37.59,Passing,0
+946,Brendan,Shoveller,Male,3,27,29,50,57,50,92,1,1,1,1,62.25,85.0,16.11,56,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Math,20.11,Needs Improvement,0
+947,Alexandra,Cruess,Female,8,6,48,100,30,68,0,1,0,1,0,49.5,96.67,26.67,54,Excessive Tardiness,Fail,Exessive,Middle (6-8),0,1,2,Math,It,43.68,Failing,0
+948,Lenee,Espinos,Female,8,28,15,86,90,13,32,1,1,0,0,55.25,84.44,8.33,43,Excessive Absence,Pass,Exessive,Middle (6-8),1,1,2,Science,English,38.64,Passing,0
+949,Kevon,Perulli,Male,10,29,14,69,31,62,12,1,0,1,0,43.5,83.89,7.78,43,Excessive Absence,Fail,Exessive,High (9-12),1,1,2,Math,It,26.71,Failing,0
+950,Robert,Churcher,Male,7,23,28,56,67,30,15,1,1,0,0,42.0,87.22,15.56,51,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,Science,It,23.76,Failing,0
+951,Yurik,Bernardy,Male,10,11,43,66,15,76,62,1,0,1,1,54.75,93.89,23.89,54,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,English,Science,27.15,Passing,0
+952,Alyse,Abbiss,Female,6,6,36,82,50,88,68,1,1,1,1,72.0,96.67,20.0,42,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,0,English,Science,16.89,Satisfactory,0
+953,Grayce,Dametti,Female,2,7,48,66,95,50,88,1,1,1,1,74.75,96.11,26.67,55,Excessive Tardiness,Pass,Exessive,Elementary (1-5),0,1,0,Science,English,20.61,Satisfactory,0
+954,Virginie,Kinglesyd,Female,8,24,33,22,68,27,29,0,1,0,0,36.5,86.67,18.33,57,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,3,Science,Math,21.21,Failing,0
+955,Katleen,Marshalleck,Female,3,12,20,58,100,95,64,1,1,1,1,79.25,93.33,11.11,32,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,21.31,Satisfactory,0
+956,Karisa,Champion,Female,1,7,6,50,50,72,83,1,1,1,1,63.75,96.11,3.33,13,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,It,Math,16.5,Needs Improvement,0
+957,Nickola,Rait,Male,6,16,3,98,50,50,50,1,1,1,1,62.0,91.11,1.67,19,Excessive Absence,Pass,Moderate,Middle (6-8),0,1,0,Math,Science,24.0,Needs Improvement,0
+958,Hagen,Bladen,Male,9,22,39,81,1,39,59,1,0,0,1,45.0,87.78,21.67,61,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,Science,33.98,Failing,0
+959,Meghann,Connechie,Female,2,20,42,76,69,50,57,1,1,1,1,63.0,88.89,23.33,62,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,11.69,Needs Improvement,0
+960,Engelbert,Gricks,Male,12,20,45,23,30,46,67,0,0,0,1,41.5,88.89,25.0,65,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,It,Math,19.54,Failing,0
+961,Connie,Milverton,Female,10,9,43,53,89,94,91,1,1,1,1,81.75,95.0,23.89,52,Excessive Tardiness,Pass,Exessive,High (9-12),0,1,0,English,Math,19.28,Good,0
+962,Andres,Ghio,Male,5,21,11,83,73,82,50,1,1,1,1,72.0,88.33,6.11,32,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,It,15.34,Satisfactory,0
+963,Ephraim,Cuttings,Male,7,2,33,98,77,16,80,1,1,0,1,67.75,98.89,18.33,35,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,1,Math,English,35.72,Needs Improvement,0
+964,Walden,Clac,Male,9,30,7,91,1,18,92,1,0,0,1,50.5,83.33,3.89,37,Excessive Absence,Pass,Exessive,High (9-12),1,1,2,It,Science,47.85,Passing,0
+965,Doe,Michael,Female,4,25,20,50,65,50,50,1,1,1,1,53.75,86.11,11.11,45,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Science,Math,7.5,Passing,0
+966,Lizbeth,Bowkley,Female,6,27,23,50,50,50,50,1,1,1,1,50.0,85.0,12.78,50,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,Math,0.0,Passing,0
+967,Reagan,Pevreal,Male,6,14,10,86,62,50,50,1,1,1,1,62.0,92.22,5.56,24,Excessive Absence,Pass,Concerning,Middle (6-8),0,1,0,Math,English,16.97,Needs Improvement,0
+968,Sandie,Gerhartz,Female,1,11,23,59,50,50,98,1,1,1,1,64.25,93.89,12.78,34,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,22.9,Needs Improvement,0
+969,Carita,Bruce,Female,9,6,16,46,15,26,21,0,0,0,0,27.0,96.67,8.89,22,Acceptable,Fail,Concerning,High (9-12),0,0,4,Math,Science,13.44,Failing,0
+970,Griffy,Goggey,Male,8,18,45,31,18,14,41,0,0,0,0,26.0,90.0,25.0,63,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,4,It,English,12.36,Failing,0
+971,Ava,Dungate,Female,6,1,28,51,50,58,50,1,1,1,1,52.25,99.44,15.56,29,Excessive Tardiness,Pass,Concerning,Middle (6-8),0,1,0,English,Science,3.86,Passing,0
+972,Staci,McFeate,Female,3,26,12,77,50,50,62,1,1,1,1,59.75,85.56,6.67,38,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Science,12.82,Passing,0
+973,Emelina,Vannuchi,Female,1,14,23,50,50,50,50,1,1,1,1,50.0,92.22,12.78,37,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+974,Rowan,Shark,Male,2,0,23,50,50,50,50,1,1,1,1,50.0,100.0,12.78,23,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Math,Math,0.0,Passing,0
+975,Bartolomeo,Glanders,Male,8,11,4,63,89,92,64,1,1,1,1,77.0,93.89,2.22,15,Excessive Absence,Pass,Moderate,Middle (6-8),0,1,0,English,Math,15.64,Satisfactory,0
+976,Harley,D'Abbot-Doyle,Female,7,23,18,72,24,80,6,1,0,1,0,45.5,87.22,10.0,41,Excessive Absence,Fail,Exessive,Middle (6-8),0,1,2,English,It,36.12,Failing,0
+977,Freddi,Scolli,Female,2,3,13,50,98,50,50,1,1,1,1,62.0,98.33,7.22,16,Acceptable,Pass,Moderate,Elementary (1-5),0,0,0,Science,Math,24.0,Needs Improvement,0
+978,Stacee,Pessel,Female,6,21,48,92,50,50,55,1,1,1,1,61.75,88.33,26.67,69,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Math,Science,20.3,Needs Improvement,0
+979,Sadella,Lobell,Female,6,17,49,50,86,50,81,1,1,1,1,66.75,90.56,27.22,66,Excessive Absence,Pass,Exessive,Middle (6-8),0,1,0,Science,Math,19.45,Needs Improvement,0
+980,Dietrich,Osgardby,Male,9,23,4,30,72,88,93,0,1,1,1,70.75,87.22,2.22,27,Excessive Absence,Pass,Concerning,High (9-12),0,1,1,It,Math,28.61,Satisfactory,0
+981,Leese,Rowbury,Female,9,0,28,30,69,14,69,0,1,0,1,45.5,100.0,15.56,28,Excessive Tardiness,Fail,Concerning,High (9-12),0,1,2,Science,English,27.91,Failing,0
+982,Vicky,Regardsoe,Female,9,24,25,90,30,14,7,1,0,0,0,35.25,86.67,13.89,49,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,It,37.75,Failing,0
+983,Emmie,Bendare,Female,9,25,32,43,72,53,57,0,1,1,1,56.25,86.11,17.78,57,Excessive Absence,Pass,Exessive,High (9-12),0,1,1,Science,Math,12.04,Passing,0
+984,Gaylor,Marshalleck,Male,4,11,32,66,50,53,88,1,1,1,1,64.25,93.89,17.78,43,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,It,Science,17.29,Needs Improvement,0
+985,Karen,Kinmond,Female,1,9,21,50,81,50,50,1,1,1,1,57.75,95.0,11.67,30,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Science,Math,15.5,Passing,0
+986,Lea,Skates,Female,4,11,17,64,50,81,50,1,1,1,1,61.25,93.89,9.44,28,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,English,Science,14.73,Needs Improvement,0
+987,Glennie,Philpotts,Female,2,0,29,99,50,91,50,1,1,1,1,72.5,100.0,16.11,29,Excessive Tardiness,Pass,Concerning,Elementary (1-5),0,1,0,Math,Science,26.19,Satisfactory,0
+988,Terrell,Jagels,Male,11,26,26,74,16,52,27,1,0,1,0,42.25,85.56,14.44,52,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,Science,25.98,Failing,0
+989,Joella,Crielly,Female,9,30,31,7,72,26,49,0,1,0,0,38.5,83.33,17.22,61,Excessive Absence,Fail,Exessive,High (9-12),1,1,3,Science,Math,28.17,Failing,0
+990,Rasla,Aikenhead,Female,7,6,5,67,94,88,5,1,1,1,0,63.5,96.67,2.78,11,Acceptable,Pass,Moderate,Middle (6-8),0,0,1,Science,It,40.68,Needs Improvement,0
+991,Zia,Josilevich,Female,10,10,37,16,35,18,58,0,0,0,1,31.75,94.44,20.56,47,Excessive Tardiness,Fail,Exessive,High (9-12),0,1,3,It,Math,19.47,Failing,0
+992,Maximilianus,Duffin,Male,5,25,4,77,85,72,50,1,1,1,1,71.0,86.11,2.22,29,Excessive Absence,Pass,Concerning,Elementary (1-5),0,1,0,Science,It,14.99,Satisfactory,0
+993,Shalne,Roderigo,Female,1,7,2,50,50,50,65,1,1,1,1,53.75,96.11,1.11,9,Acceptable,Pass,Good,Elementary (1-5),0,0,0,It,Math,7.5,Passing,0
+994,Dolores,Boothroyd,Female,10,19,44,82,28,11,42,1,0,0,0,40.75,89.44,24.44,63,Excessive Absence,Fail,Exessive,High (9-12),0,1,3,Math,English,30.28,Failing,0
+995,Thatcher,Kendal,Male,2,28,46,50,50,89,64,1,1,1,1,63.25,84.44,25.56,74,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,English,Math,18.39,Needs Improvement,0
+996,Correy,Danett,Female,7,9,35,67,15,80,88,1,0,1,1,62.5,95.0,19.44,44,Excessive Tardiness,Pass,Exessive,Middle (6-8),0,1,1,It,Science,32.83,Needs Improvement,0
+997,Ravid,Kochlin,Male,9,17,18,25,92,41,42,0,1,0,0,50.0,90.56,10.0,35,Excessive Absence,Pass,Exessive,High (9-12),0,1,3,Science,Math,29.06,Passing,0
+998,Clemens,Brik,Male,8,14,0,30,55,11,31,0,1,0,0,31.75,92.22,0.0,14,Excessive Absence,Fail,Moderate,Middle (6-8),0,1,3,Science,English,18.03,Failing,0
+999,Ernst,Skedge,Male,12,14,29,87,82,16,2,1,1,0,0,46.75,92.22,16.11,43,Excessive Absence,Fail,Exessive,High (9-12),0,1,2,Math,It,44.01,Failing,0
+1000,Elmo,Kuhlmey,Male,3,19,21,60,54,50,50,1,1,1,1,53.5,89.44,11.67,40,Excessive Absence,Pass,Exessive,Elementary (1-5),0,1,0,Math,English,4.73,Passing,0
